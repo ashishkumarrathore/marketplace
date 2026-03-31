@@ -41,50 +41,66 @@ export default function CatalogPage() {
     () => true,
     async () => {
       try {
+        // Check if already cached in sessionStorage
+        const cachedEligible = sessionStorage.getItem(
+          "marketone_eligible_catalog",
+        );
+        if (cachedEligible) {
+          return JSON.parse(cachedEligible);
+        }
+
         const resp = await fetchEligibleCatalog();
         if (!resp || !Array.isArray(resp)) return [];
-        return resp
+        const eligible_list = resp
           .map((r) => r.platform_id || r.platform_id?.toString() || "")
           .filter(Boolean);
+
+        // Cache for future use
+        try {
+          sessionStorage.setItem(
+            "marketone_eligible_catalog",
+            JSON.stringify(eligible_list),
+          );
+        } catch (e) {}
+
+        return eligible_list;
       } catch (err) {
         return [];
       }
     },
   );
 
-  // Refresh eligible mapping on mount so changes to the backend file are picked up
+  // Refresh profile and account on mount (if not already cached)
   onMount(() => {
-    // if user is logged in, refresh profile and account to prefill UI
     (async () => {
       try {
-        // 1. Fetch profile (user info)
-        const prof = await fetchProfile();
-        if (prof && prof.user) {
-          try {
-            sessionStorage.setItem("marketone_profile", JSON.stringify(prof));
-          } catch (e) {}
+        // 1. Fetch profile (user info) - only if not already in sessionStorage
+        const profileJson = sessionStorage.getItem("marketone_profile");
+        if (!profileJson) {
+          const prof = await fetchProfile();
+          if (prof && prof.user) {
+            try {
+              sessionStorage.setItem("marketone_profile", JSON.stringify(prof));
+            } catch (e) {}
+          }
         }
       } catch (e) {
         // ignore profile fetch failures
       }
 
       try {
-        // 2. Fetch account (wallet, shipping, payment methods)
-        const acct = await fetchAccount();
-        if (acct) {
-          try {
-            sessionStorage.setItem("marketone_account", JSON.stringify(acct));
-          } catch (e) {}
+        // 2. Fetch account (wallet, shipping, payment methods) - only if not already in sessionStorage
+        const accountJson = sessionStorage.getItem("marketone_account");
+        if (!accountJson) {
+          const acct = await fetchAccount();
+          if (acct) {
+            try {
+              sessionStorage.setItem("marketone_account", JSON.stringify(acct));
+            } catch (e) {}
+          }
         }
       } catch (e) {
         // ignore account fetch failures
-      }
-
-      try {
-        // 4. Fetch eligible catalog (product filtering mapping)
-        refetchEligible();
-      } catch (e) {
-        // ignore
       }
     })();
   });

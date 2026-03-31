@@ -668,126 +668,86 @@ def login(req: LoginRequest):
 @app.get('/account')
 @app.get('/api/account')
 def account_endpoint(user: dict = Depends(require_auth)):
-    """Return account-centric data (wallet balance, shipping address, payment methods, subscriptions, entitlements, wallet grants/usage) for the authenticated user."""
-
-    # Get wallet balance from user
-    walletBalance = user.get('walletBalance') if user.get('walletBalance') is not None else (
-        user.get('wallet', {}).get('balance', 0) if isinstance(user, dict) else 0
-    )
-
-    # Build sample account response matching expected structure with subscriptions and entitlements
-    # Use subscription dates that align with wallet grants
-    wallet_grants = WALLET.get('grants', [])
-    subscriptions = []
+    """Return account object - self-contained with all nested data.
+    - Wallet balance: account.credit.currency_amounts[0].amount (read from user.walletBalance)
+    - Shipping address: account.attributes.bssAccounts[0].addresses[0]
+    - Payment methods: account.attributes.paymentDetails
+    NO external fields - everything within account object.
+    """
     
-    for grant in wallet_grants:
-        try:
-            # Parse grant date for subscription start
-            grant_date = datetime.strptime(grant['date'], '%Y-%m-%d')
-            grant_timestamp = int(grant_date.timestamp() * 1000)
-            
-            # Parse expiry date if available
-            expiry_timestamp = grant_timestamp + 86400000 * 365  # default 1 year
-            if grant.get('expires'):
-                try:
-                    expiry_date = datetime.strptime(grant['expires'], '%Y-%m-%d')
-                    expiry_timestamp = int(expiry_date.timestamp() * 1000)
-                except:
-                    pass
-            
-            subscription = {
-                "association": {
-                    "flags": {
-                        "mint.permission.administration": "false",
-                        "mint.permission.delete": "true",
-                        "mint.permission.read": "true",
-                        "mint.enabledByUser": "true",
-                        "mint.permission.write": "true",
-                        "mint.permission.timeofday": "false",
-                        "mint.status.requested": "false",
-                        "mint.permission.create": "false",
-                        "mint.status.suspend": "false",
-                        "mint.permission.execute": "true",
-                        "mint.permission.transient": "false",
-                        "mint.status.activating": "false",
-                        "mint.role": "mint.role.primary"
-                    }
-                },
-                "activatedDate": grant_timestamp,
-                "createdDate": grant_timestamp,
-                "status": "activated",
-                "id": hash(grant['id']) % 99999,
-                "type": "marketplace_grant",
-                "displayName": grant['reason'],
-                "attributes": {
-                    "paymentProviderSubscriptions": [
-                        {
-                            "id": hash(grant['id']) % 99999,
-                            "providerSubscriptionId": f"grant_{grant['id']}",
-                            "subscriptionStartDate": grant_timestamp,
-                            "subscriptionEndDate": expiry_timestamp,
-                            "billingState": "GOOD_STANDING",
-                            "subscriptionStatus": "ACTIVE",
-                            "nextSubscriptionPrice": grant['amount'],
-                            "subscriptionCurrency": "USD",
-                            "purchaseSource": "MARKETPLACE",
-                            "serviceType": "GRANT",
-                            "paymentMethod": {
-                                "id": 303208,
-                                "paymentMethodId": f"PM-{uuid.uuid4().hex[:12]}",
-                                "active": True,
-                                "primary": True,
-                                "status": "ACTIVE",
-                                "classType": "com.uxpsystems.mint.attributes.WalletCredit"
-                            },
-                            "subscriptionItems": [
-                                {
-                                    "id": hash(grant['id']) % 999999,
-                                    "productId": f"GRANT-{grant['id']}",
-                                    "productDescription": grant['reason'],
-                                    "subscriptionPrice": grant['amount'],
-                                    "plmCode": "wallet_grant"
-                                }
-                            ],
-                            "maxUser": 1,
-                            "productDescription": grant['reason'],
-                            "subscriptionPrice": grant['amount'],
-                            "productId": f"GRANT-{grant['id']}",
-                            "plmCode": "wallet_grant"
-                        }
-                    ]
-                }
-            }
-            subscriptions.append(subscription)
-        except Exception:
-            pass
-
+    # Extract shipping address from user (if stored)
+    shipping_addr = user.get('shippingAddress', {})
+    line1 = shipping_addr.get('street', '123 Tech Street')
+    city = shipping_addr.get('city', 'San Francisco')
+    state = shipping_addr.get('state', 'CA')
+    postal_code = shipping_addr.get('zip', '94105')
+    
+    # Get wallet balance
+    wallet_balance = user.get('walletBalance', 125.00)
+    
+    # Build account object - completely self-contained
     account = {
-        "association": {
-            "flags": {
-                "mint.permission.administration": "false",
-                "mint.permission.delete": "true",
-                "mint.permission.read": "true",
-                "mint.enabledByUser": "true",
-                "mint.permission.write": "true",
-                "mint.permission.timeofday": "false",
-                "mint.status.requested": "false",
-                "mint.permission.create": "false",
-                "mint.status.suspend": "false",
-                "mint.permission.execute": "true",
-                "mint.permission.transient": "false",
-                "mint.status.activating": "false",
-                "mint.role": "mint.role.primary"
-            }
-        },
-        "activatedDate": int(datetime.utcnow().timestamp() * 1000) - 86400000,  # yesterday
-        "createdDate": int(datetime.utcnow().timestamp() * 1000) - 86400000 * 30,  # 30 days ago
-        "status": "activated",
         "id": hash(user.get('id', 'default')) % 999999,
         "type": "PaymentProviderAccount",
         "displayName": user.get('username', 'Account')[:12].upper(),
-        "subscriptions": subscriptions,
+        "status": "activated",
+        "activatedDate": int(datetime.utcnow().timestamp() * 1000) - 86400000,
+        "createdDate": int(datetime.utcnow().timestamp() * 1000) - 86400000 * 30,
+        
+        # ═══ WALLET BALANCE (read from user.walletBalance) ═══
+        "credit": {
+            "currency_amounts": [
+                {
+                    "object": "CurrencyAmount",
+                    "vid": "620536b2202f090fee378916881e9799ae1aa381",
+                    "currency": "USD",
+                    "amount": wallet_balance,  # ← WALLET BALANCE HERE
+                    "description": "ATT Customer Accumulated credit",
+                    "reason": "Loyalty",
+                    "granted_by_cashbox": "false",
+                    "granted": "2026-03-18T02:05:15+00:00",
+                    "source": "Account"
+                }
+            ]
+        },
+        
         "attributes": {
+            # ═══ SHIPPING ADDRESS (read from user.shippingAddress) ═══
+            "bssAccounts": [
+                {
+                    "id": 243994,
+                    "accountId": user.get('username', 'account').upper(),
+                    "addresses": [
+                        {
+                            "id": 243696,
+                            "line1": line1,
+                            "city": city,
+                            "county": city,
+                            "district": state,
+                            "postalCode": postal_code,
+                            "country": "US"
+                        }
+                    ],
+                    "metadata": {
+                        "tier": "eligible",
+                        "tierLastUpdated": datetime.utcnow().isoformat() + "Z"
+                    }
+                }
+            ],
+            
+            # ═══ PAYMENT METHODS ═══
+            "paymentDetails": [
+                {
+                    "id": 303208,
+                    "paymentMethodId": f"PM-{uuid.uuid4().hex[:12]}",
+                    "active": True,
+                    "primary": True,
+                    "status": "ACTIVE",
+                    "classType": "com.uxpsystems.mint.attributes.CarrierBillingPayment"
+                }
+            ],
+            
+            # ═══ ENTITLEMENTS (grants) ═══
             "entitlements": [
                 {
                     "id": i,
@@ -798,78 +758,13 @@ def account_endpoint(user: dict = Depends(require_auth)):
                     "status": "activated",
                     "startDate": int(datetime.strptime(grant['date'], '%Y-%m-%d').timestamp() * 1000),
                 }
-                for i, grant in enumerate(wallet_grants)
-            ],
-            "bssAccounts": [
-                {
-                    "id": 243994,
-                    "accountId": user.get('username', 'account').upper(),
-                    "addresses": [
-                        {
-                            "id": 243696,
-                            "line1": "123 Tech Street",
-                            "city": "San Francisco",
-                            "county": "San Francisco",
-                            "district": "CA",
-                            "postalCode": "94105",
-                            "country": "US"
-                        }
-                    ],
-                    "metadata": {
-                        "tier": "eligible",
-                        "tierLastUpdated": datetime.utcnow().isoformat() + "Z"
-                    }
-                }
-            ],
-            "paymentDetails": [
-                {
-                    "id": 303208,
-                    "paymentMethodId": f"PM-{uuid.uuid4().hex[:12]}",
-                    "active": True,
-                    "primary": True,
-                    "status": "ACTIVE",
-                    "classType": "com.uxpsystems.mint.attributes.CarrierBillingPayment"
-                }
+                for i, grant in enumerate(WALLET.get('grants', []))
             ]
         }
     }
-
-    # Extract shipping address from account
-    shippingAddress = None
-    try:
-        if account['attributes']['bssAccounts']:
-            addr = account['attributes']['bssAccounts'][0]['addresses'][0]
-            shippingAddress = {
-                "street": addr.get('line1', ''),
-                "city": addr.get('city', ''),
-                "state": addr.get('district', ''),
-                "zip": addr.get('postalCode', ''),
-            }
-    except Exception:
-        pass
-
-    # Extract payment methods
-    paymentMethods = []
-    try:
-        if account['attributes']['paymentDetails']:
-            for pm in account['attributes']['paymentDetails']:
-                paymentMethods.append({
-                    "id": pm.get('id'),
-                    "paymentMethodId": pm.get('paymentMethodId'),
-                    "active": pm.get('active', True),
-                    "primary": pm.get('primary', False),
-                    "status": pm.get('status', 'ACTIVE'),
-                })
-    except Exception:
-        pass
-
-    return {
-        'account': account,
-        'walletBalance': walletBalance,
-        'shippingAddress': shippingAddress,
-        'paymentMethods': paymentMethods,
-        'user': user,
-    }
+    
+    # Return ONLY the account object - no external fields
+    return account
 
 @app.delete('/api/users/{user_id}')
 def api_delete_user(user_id: str, request: Request):
@@ -995,7 +890,9 @@ class UpdateAccountRequest(BaseModel):
 
 @app.post('/api/account')
 def update_account(req: UpdateAccountRequest, user: dict = Depends(require_auth)):
-    """Update user's email and/or shipping address."""
+    """Update user's email and/or shipping address.
+    These are persisted to the user object, then returned within the account response.
+    """
     updates = {}
     if req.email:
         updates['email'] = req.email
@@ -1010,13 +907,95 @@ def update_account(req: UpdateAccountRequest, user: dict = Depends(require_auth)
     except Exception as e:
         raise HTTPException(500, f'Update failed: {e}')
     
-    # Return updated account data
+    # Get updated user
     updated_user = find_user_by_token(user.get('token'))
     if not updated_user:
         updated_user = user
     
+    # Extract updated shipping address
+    shipping_addr = updated_user.get('shippingAddress', {})
+    line1 = shipping_addr.get('street', '123 Tech Street')
+    city = shipping_addr.get('city', 'San Francisco')
+    state = shipping_addr.get('state', 'CA')
+    postal_code = shipping_addr.get('zip', '94105')
+    wallet_balance = updated_user.get('walletBalance', 125.00)
+    
+    # Return updated account object (self-contained)
+    updated_account = {
+        "id": hash(updated_user.get('id', 'default')) % 999999,
+        "type": "PaymentProviderAccount",
+        "displayName": updated_user.get('username', 'Account')[:12].upper(),
+        "status": "activated",
+        "activatedDate": int(datetime.utcnow().timestamp() * 1000) - 86400000,
+        "createdDate": int(datetime.utcnow().timestamp() * 1000) - 86400000 * 30,
+        
+        "credit": {
+            "currency_amounts": [
+                {
+                    "object": "CurrencyAmount",
+                    "vid": "620536b2202f090fee378916881e9799ae1aa381",
+                    "currency": "USD",
+                    "amount": wallet_balance,
+                    "description": "ATT Customer Accumulated credit",
+                    "reason": "Loyalty",
+                    "granted_by_cashbox": "false",
+                    "granted": "2026-03-18T02:05:15+00:00",
+                    "source": "Account"
+                }
+            ]
+        },
+        
+        "attributes": {
+            "bssAccounts": [
+                {
+                    "id": 243994,
+                    "accountId": updated_user.get('username', 'account').upper(),
+                    "addresses": [
+                        {
+                            "id": 243696,
+                            "line1": line1,
+                            "city": city,
+                            "county": city,
+                            "district": state,
+                            "postalCode": postal_code,
+                            "country": "US"
+                        }
+                    ],
+                    "metadata": {
+                        "tier": "eligible",
+                        "tierLastUpdated": datetime.utcnow().isoformat() + "Z"
+                    }
+                }
+            ],
+            
+            "paymentDetails": [
+                {
+                    "id": 303208,
+                    "paymentMethodId": f"PM-{uuid.uuid4().hex[:12]}",
+                    "active": True,
+                    "primary": True,
+                    "status": "ACTIVE",
+                    "classType": "com.uxpsystems.mint.attributes.CarrierBillingPayment"
+                }
+            ],
+            
+            "entitlements": [
+                {
+                    "id": i,
+                    "entitlementId": f"GRANT-{grant['id']}",
+                    "productId": f"GRANT-{grant['id']}",
+                    "productDescription": grant['reason'],
+                    "plmCode": "wallet_grant",
+                    "status": "activated",
+                    "startDate": int(datetime.strptime(grant['date'], '%Y-%m-%d').timestamp() * 1000),
+                }
+                for i, grant in enumerate(WALLET.get('grants', []))
+            ]
+        }
+    }
+    
     return {
         'ok': True,
         'message': 'Account updated successfully',
-        'user': updated_user,
+        'account': updated_account,
     }

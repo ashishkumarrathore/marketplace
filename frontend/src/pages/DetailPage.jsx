@@ -92,11 +92,29 @@ export default function DetailPage() {
     () => true,
     async () => {
       try {
+        // Check if already cached in sessionStorage
+        const cachedEligible = sessionStorage.getItem(
+          "marketone_eligible_catalog",
+        );
+        if (cachedEligible) {
+          return JSON.parse(cachedEligible);
+        }
+
         const resp = await fetchEligibleCatalog();
         if (!resp || !Array.isArray(resp)) return [];
-        return resp
+        const eligible_list = resp
           .map((r) => r.productId || (r.productId && r.productId.toString()))
           .filter(Boolean);
+
+        // Cache for future use
+        try {
+          sessionStorage.setItem(
+            "marketone_eligible_catalog",
+            JSON.stringify(eligible_list),
+          );
+        } catch (e) {}
+
+        return eligible_list;
       } catch (err) {
         return [];
       }
@@ -106,7 +124,13 @@ export default function DetailPage() {
   // ensure eligible list is fresh when this page mounts
   onMount(() => {
     try {
-      refetchEligibleList();
+      // Only refetch if not already cached - avoid unnecessary API calls
+      const cachedEligible = sessionStorage.getItem(
+        "marketone_eligible_catalog",
+      );
+      if (!cachedEligible) {
+        refetchEligibleList();
+      }
     } catch (e) {
       /* ignore */
     }

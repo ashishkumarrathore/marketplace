@@ -252,19 +252,23 @@ def get_products(q: Optional[str]=None, type: Optional[str]=None, brand: Optiona
         "items": items[(page-1)*page_size : page*page_size],
     }
 
+@app.get("/products")
+def get_products_legacy(q: Optional[str]=None, type: Optional[str]=None, brand: Optional[str]=None,
+                min_price: Optional[float]=None, max_price: Optional[float]=None,
+                page: int=1, page_size: int=24, product_groups: Optional[str]=None):
+    # Legacy endpoint - delegates to /api/products
+    return get_products(q, type, brand, min_price, max_price, page, page_size, product_groups)
+
 @app.get("/api/products/{product_id}")
+@app.get("/products/{product_id}")
 def get_product(product_id: str):
     for p in ALL_PRODUCTS:
         if p["id"] == product_id or p["platform_id"] == product_id:
             return _item(p)
     raise HTTPException(404, "Product not found")
 
-@app.get("/api/products")
-def get_products_list():
-    """Return list of all products."""
-    return [{"productId": p["id"], "platform_id": p.get("platform_id")} for p in ALL_PRODUCTS]
-
 @app.get("/api/catalog")
+@app.get("/catalog")
 def get_catalog():
     """Return eligible catalog (all products for this demo)."""
     return [{"productId": p["id"], "platform_id": p.get("platform_id")} for p in ALL_PRODUCTS]

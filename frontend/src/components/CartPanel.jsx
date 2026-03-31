@@ -1,14 +1,19 @@
-import { Show, For } from 'solid-js';
+import { Show, For } from "solid-js";
 import {
-  cartStore, cartCount, cartSubtotal, walletBalance,
-  removeFromCart, updateQty, navigate, setCartOpen,
-} from '../store';
-import { productEmoji, fmt } from '../utils';
-import './CartPanel.css';
+  cartStore,
+  cartCount,
+  cartSubtotal,
+  walletBalance,
+  removeFromCart,
+  updateQty,
+  navigate,
+  setCartOpen,
+} from "../store";
+import { productEmoji, fmt } from "../utils";
+import "./CartPanel.css";
 
 export default function CartPanel() {
-  const walletDiscount = () => Math.min(walletBalance(), cartSubtotal() * 0.1);
-  const estimatedTotal = () => cartSubtotal() - walletDiscount() + cartSubtotal() * 0.053;
+  const estimatedTotal = () => cartSubtotal() + cartSubtotal() * 0.053;
 
   return (
     <div class="cart-panel">
@@ -20,7 +25,12 @@ export default function CartPanel() {
             <span class="cart-count-badge">{cartCount()}</span>
           </Show>
         </h2>
-        <button class="btn btn-icon btn-ghost" onClick={() => setCartOpen(false)}>✕</button>
+        <button
+          class="btn btn-icon btn-ghost"
+          onClick={() => setCartOpen(false)}
+        >
+          ✕
+        </button>
       </div>
 
       {/* Items */}
@@ -32,7 +42,13 @@ export default function CartPanel() {
               <div class="empty-state-icon">🛒</div>
               <div class="empty-state-title">Your cart is empty</div>
               <p class="text-muted text-sm">Browse the catalog to add items</p>
-              <button class="btn btn-primary btn-sm" onClick={() => { setCartOpen(false); navigate('catalog'); }}>
+              <button
+                class="btn btn-primary btn-sm"
+                onClick={() => {
+                  setCartOpen(false);
+                  navigate("catalog");
+                }}
+              >
                 Browse Catalog
               </button>
             </div>
@@ -52,16 +68,37 @@ export default function CartPanel() {
                   </div>
                   {/* Qty controls */}
                   <div class="qty-controls">
-                    <button class="qty-btn" onClick={() => updateQty(item._key, item.qty - 1)}>−</button>
+                    <button
+                      class="qty-btn"
+                      onClick={() => updateQty(item._key, item.qty - 1)}
+                    >
+                      −
+                    </button>
                     <span class="qty-value">{item.qty}</span>
-                    <button class="qty-btn" onClick={() => updateQty(item._key, item.qty + 1)}>+</button>
+                    <button
+                      class="qty-btn"
+                      onClick={() => updateQty(item._key, item.qty + 1)}
+                    >
+                      +
+                    </button>
                   </div>
                 </div>
                 <div class="cart-item-right">
                   <div class="cart-item-price font-mono">
-                    {fmt(item.price * item.qty + (item.protection_plan ? item.protection_plan.price * item.qty : 0))}
+                    {fmt(
+                      item.price * item.qty +
+                        (item.protection_plan
+                          ? item.protection_plan.price * item.qty
+                          : 0),
+                    )}
                   </div>
-                  <button class="remove-btn" onClick={() => removeFromCart(item._key)} title="Remove">✕</button>
+                  <button
+                    class="remove-btn"
+                    onClick={() => removeFromCart(item._key)}
+                    title="Remove"
+                  >
+                    ✕
+                  </button>
                 </div>
               </div>
             )}
@@ -77,17 +114,13 @@ export default function CartPanel() {
               <span class="text-muted">Subtotal</span>
               <span class="font-mono">{fmt(cartSubtotal())}</span>
             </div>
-            <Show when={walletDiscount() > 0}>
-              <div class="total-row wallet-row">
-                <span>◈ Wallet Credit</span>
-                <span class="font-mono">−{fmt(walletDiscount())}</span>
-              </div>
-            </Show>
             <div class="total-row muted-row">
               <span class="text-muted">Est. Tax (5.3%)</span>
-              <span class="font-mono text-muted">{fmt(cartSubtotal() * 0.053)}</span>
+              <span class="font-mono text-muted">
+                {fmt(cartSubtotal() * 0.053)}
+              </span>
             </div>
-            <div class="divider" style={{ margin: '10px 0' }} />
+            <div class="divider" style={{ margin: "10px 0" }} />
             <div class="total-row grand-total">
               <span>Est. Total</span>
               <span class="font-mono">{fmt(estimatedTotal())}</span>
@@ -96,15 +129,21 @@ export default function CartPanel() {
 
           <button
             class="btn btn-primary btn-lg w-full"
-            onClick={() => { setCartOpen(false); navigate('checkout'); }}
+            onClick={() => {
+              setCartOpen(false);
+              navigate("checkout");
+            }}
           >
             Proceed to Checkout →
           </button>
 
           <button
             class="btn btn-ghost btn-sm w-full"
-            style={{ 'margin-top': '8px' }}
-            onClick={() => { setCartOpen(false); navigate('catalog'); }}
+            style={{ "margin-top": "8px" }}
+            onClick={() => {
+              setCartOpen(false);
+              navigate("catalog");
+            }}
           >
             Continue Shopping
           </button>

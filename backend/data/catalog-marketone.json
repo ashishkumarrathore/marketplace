@@ -1,0 +1,2882 @@
+[
+  {
+    "productId": "airpods_pro_midnight",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "airpods_pro_midnight_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "airpods_pro_white",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "airpods_pro_white_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_buds4_graphite",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_buds4_graphite_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_buds4_lavender",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_buds4_lavender_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_buds4_white",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_buds4_white_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_1tb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_256gb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_2tb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_512gb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_1tb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_256gb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_2tb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_s26_ultra_512gb_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_aurora_violet",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_aurora_violet_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_emerald_green",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_emerald_green_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_phantom_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_phantom_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_titan_gray",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "galaxy_silicone_case_titan_gray_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_1tb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_256gb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_2tb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_512gb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_1tb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_256gb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_2tb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_max_512gb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_1tb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_256gb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_2tb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_arctic_silver_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_cosmic_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_cosmic_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_midnight_blue",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_midnight_blue_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_rose_gold",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_silicone_case_rose_gold_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "magsafe_charger_white",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "magsafe_charger_white_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "super_fast_charger_45w_black",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "super_fast_charger_45w_black_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "super_fast_charger_45w_white",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "super_fast_charger_45w_white_offer",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  },
+  {
+    "productId": "iphone_17_pro_512gb_arctic_silver",
+    "billingOptions": [
+      {
+        "billingPlanId": "HULU-YEARLY-TRIAL"
+      }
+    ],
+    "canUpgradeTo": ["HULU-HIGH-YEARLY-NO-TRIAL"],
+    "canDowngradeTo": [
+      "HULU-LOW-YEARLY",
+      "HULU-LOW",
+      "HULU-MEDIUM-MONTHLY-NO-TRIAL",
+      "HULU-HIGH-MONTHLY-NO-TRIAL"
+    ]
+  }
+]

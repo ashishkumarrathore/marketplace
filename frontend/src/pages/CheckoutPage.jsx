@@ -50,14 +50,14 @@ export default function CheckoutPage() {
       if (accountJson) {
         const account = JSON.parse(accountJson);
 
-        // Sync wallet balance from account if available
-        if (
-          account.walletBalance !== undefined &&
-          account.walletBalance !== null
-        ) {
-          setWalletBalance(account.walletBalance);
-          setApplyWallet(account.walletBalance > 0);
-        }
+        // Sync wallet balance from account.credit.currency_amounts[0].amount
+        try {
+          const walletAmount = account?.credit?.currency_amounts?.[0]?.amount;
+          if (walletAmount !== undefined && walletAmount !== null) {
+            setWalletBalance(walletAmount);
+            setApplyWallet(walletAmount > 0);
+          }
+        } catch (e) {}
 
         // Prefill email from profile if available
         try {
@@ -70,17 +70,16 @@ export default function CheckoutPage() {
           }
         } catch (e) {}
 
-        // Prefill shipping address from account
-        if (account.shippingAddress) {
-          if (account.shippingAddress.street && !street())
-            setStreet(account.shippingAddress.street);
-          if (account.shippingAddress.city && !city())
-            setCity(account.shippingAddress.city);
-          if (account.shippingAddress.state && !state())
-            setState(account.shippingAddress.state);
-          if (account.shippingAddress.zip && !zip())
-            setZip(account.shippingAddress.zip);
-        }
+        // Prefill shipping address from account.attributes.bssAccounts[0].addresses[0]
+        try {
+          const addr = account?.attributes?.bssAccounts?.[0]?.addresses?.[0];
+          if (addr) {
+            if (addr.line1 && !street()) setStreet(addr.line1);
+            if (addr.city && !city()) setCity(addr.city);
+            if (addr.district && !state()) setState(addr.district);
+            if (addr.postalCode && !zip()) setZip(addr.postalCode);
+          }
+        } catch (e) {}
       }
     } catch (e) {
       // ignore errors loading account data
@@ -94,17 +93,16 @@ export default function CheckoutPage() {
       if (accountJson) {
         const account = JSON.parse(accountJson);
 
-        // Prefill shipping address from account
-        if (account.shippingAddress) {
-          if (account.shippingAddress.street && !street())
-            setStreet(account.shippingAddress.street);
-          if (account.shippingAddress.city && !city())
-            setCity(account.shippingAddress.city);
-          if (account.shippingAddress.state && !state())
-            setState(account.shippingAddress.state);
-          if (account.shippingAddress.zip && !zip())
-            setZip(account.shippingAddress.zip);
-        }
+        // Prefill shipping address from account.attributes.bssAccounts[0].addresses[0]
+        try {
+          const addr = account?.attributes?.bssAccounts?.[0]?.addresses?.[0];
+          if (addr) {
+            if (addr.line1 && !street()) setStreet(addr.line1);
+            if (addr.city && !city()) setCity(addr.city);
+            if (addr.district && !state()) setState(addr.district);
+            if (addr.postalCode && !zip()) setZip(addr.postalCode);
+          }
+        } catch (e) {}
       }
     } catch (e) {}
   });
@@ -451,7 +449,7 @@ export default function CheckoutPage() {
                   </div>
                 </div>
                 <div style={{ fontWeight: 700, flexShrink: 0 }}>
-                  {shippingCost() === 0 ? "Free" : fmt(shippingCost())}
+                  {shippingCost() === 0 ? " " : fmt(shippingCost())}
                 </div>
               </label>
             </div>
@@ -515,106 +513,56 @@ export default function CheckoutPage() {
             <div class="section-title">
               <span class="section-num">5</span> Wallet Credit
             </div>
-            <div class="wallet-credit-box" style={{ overflow: "visible" }}>
-              <div class="wallet-credit-icon">◈</div>
-              <div class="wallet-credit-info" style={{ overflow: "hidden" }}>
-                <div class="wallet-credit-balance font-mono">
-                  {fmt(walletBalance())} available
-                </div>
-                <div class="text-muted text-sm" style={{ marginTop: "6px" }}>
-                  <label
-                    style={{
-                      display: "flex",
-                      flexDirection: "column",
-                      gap: "12px",
-                    }}
-                  >
-                    <div
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        gap: "12px",
-                      }}
-                    >
-                      <input
-                        type="checkbox"
-                        checked={applyWallet()}
-                        onChange={(e) => setApplyWallet(e.target.checked)}
-                      />
-                      <span style={{ fontSize: "0.9rem", fontWeight: 600 }}>
-                        Apply wallet credit
-                      </span>
-                    </div>
-                    <Show when={applyWallet()}>
-                      <div
-                        style={{
-                          display: "flex",
-                          flexDirection: "column",
-                          gap: "8px",
-                          overflow: "hidden",
-                        }}
-                      >
-                        <div
-                          style={{
-                            display: "grid",
-                            gridTemplateColumns: "30px 1fr 60px",
-                            gap: "8px",
-                            alignItems: "center",
-                            overflow: "hidden",
-                          }}
-                        >
-                          <span
-                            style={{
-                              fontSize: "0.75rem",
-                              color: "var(--muted)",
-                            }}
-                          >
-                            $0
-                          </span>
-                          <input
-                            type="range"
-                            min="0"
-                            max={Math.max(
-                              0,
-                              Math.min(walletBalance(), subtotal()),
-                            )}
-                            value={walletAmount() || 0}
-                            onInput={(e) => {
-                              const v = parseFloat(e.target.value || "0") || 0;
-                              setWalletAmount(v);
-                            }}
-                            style={{ width: "100%", overflow: "hidden" }}
-                          />
-                          <span
-                            style={{
-                              fontSize: "0.75rem",
-                              color: "var(--muted)",
-                              textAlign: "right",
-                              whiteSpace: "nowrap",
-                            }}
-                          >
-                            {fmt(
-                              Math.max(
-                                0,
-                                Math.min(walletBalance(), subtotal()),
-                              ),
-                            )}
-                          </span>
-                        </div>
-                        <div
-                          style={{
-                            fontSize: "0.85rem",
-                            fontWeight: 600,
-                            color: "var(--accent2)",
-                          }}
-                        >
-                          Applying: {fmt(walletDisc())}
-                        </div>
-                      </div>
-                    </Show>
-                  </label>
-                </div>
+            <div class="wallet-credit-container">
+              {/* Checkbox + Label */}
+              <label class="wallet-credit-checkbox-label">
+                <input
+                  type="checkbox"
+                  checked={applyWallet()}
+                  onChange={(e) => setApplyWallet(e.target.checked)}
+                  class="wallet-checkbox"
+                />
+                <span class="wallet-checkbox-text">Apply wallet credit</span>
+              </label>
+
+              {/* Available Balance */}
+              <div class="wallet-available">
+                <span class="wallet-available-label">Available:</span>
+                <span class="wallet-available-amount">
+                  {fmt(walletBalance())}
+                </span>
               </div>
+
+              {/* Slider + Min/Max Labels */}
+              <Show when={applyWallet()}>
+                <div class="wallet-slider-section">
+                  <div class="wallet-slider-row">
+                    <span class="wallet-min-label">$0</span>
+                    <input
+                      type="range"
+                      min="0"
+                      max={Math.max(0, Math.min(walletBalance(), subtotal()))}
+                      value={walletAmount() || 0}
+                      onInput={(e) => {
+                        const v = parseFloat(e.target.value || "0") || 0;
+                        setWalletAmount(v);
+                      }}
+                      class="wallet-slider"
+                    />
+                    <span class="wallet-max-label">
+                      {fmt(Math.max(0, Math.min(walletBalance(), subtotal())))}
+                    </span>
+                  </div>
+
+                  {/* Deducted Amount */}
+                  <div class="wallet-deduct-row">
+                    <span class="wallet-deduct-label">Applying:</span>
+                    <span class="wallet-deduct-amount">
+                      {fmt(walletDisc())}
+                    </span>
+                  </div>
+                </div>
+              </Show>
             </div>
           </div>
 
@@ -623,39 +571,14 @@ export default function CheckoutPage() {
             <div class="section-title">
               <span class="section-num">6</span> Protection Plans
             </div>
-            <div
-              style={{ display: "flex", flexDirection: "column", gap: "8px" }}
-            >
+            <div class="protection-plans-list">
               <For each={cartStore.items}>
                 {(item) => (
-                  <div
-                    style={{
-                      display: "flex",
-                      flexDirection: "column",
-                      gap: "10px",
-                      padding: "12px 0",
-                      borderBottom: "1px solid var(--border-soft)",
-                    }}
-                  >
+                  <div class="protection-plan-item">
                     {/* Line 1: Device name + Price */}
-                    <div
-                      style={{
-                        display: "flex",
-                        alignItems: "center",
-                        gap: "12px",
-                        justifyContent: "space-between",
-                      }}
-                    >
-                      <div style={{ fontWeight: 600, minWidth: 0 }}>
-                        {item.title}
-                      </div>
-                      <div
-                        style={{
-                          fontWeight: 600,
-                          color: "var(--accent2)",
-                          flexShrink: 0,
-                        }}
-                      >
+                    <div class="protection-plan-header">
+                      <div class="protection-plan-name">{item.title}</div>
+                      <div class="protection-plan-price">
                         {item.protection_plan
                           ? `${fmt(item.protection_plan.price)} / mo`
                           : fmt(12.99) + " / mo"}
@@ -663,12 +586,11 @@ export default function CheckoutPage() {
                     </div>
 
                     {/* Line 2: Action button */}
-                    <div>
+                    <div class="protection-plan-actions">
                       <Show when={item.protection_plan}>
                         <button
                           class="btn btn-link"
                           onClick={() => removeProtectionFromItem(item._key)}
-                          style={{ fontSize: "0.85rem" }}
                         >
                           ✕ Remove protection
                         </button>
@@ -678,7 +600,6 @@ export default function CheckoutPage() {
                         <button
                           class="btn btn-outline"
                           onClick={() => addProtectionToItem(item._key)}
-                          style={{ fontSize: "0.85rem" }}
                         >
                           + Add protection
                         </button>

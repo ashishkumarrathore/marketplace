@@ -174,6 +174,47 @@ export default function OrderDetailPage() {
                 )}
               </div>
             </div>
+
+            <div class="divider" />
+
+            {/* Action Links */}
+            <div class="order-detail-section">
+              <div class="order-detail-section-label">Next Steps</div>
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "12px",
+                }}
+              >
+                <a
+                  href={`https://www.fedex.com?orderid=${od().id}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn-secondary"
+                  style={{
+                    textDecoration: "none",
+                    textAlign: "center",
+                    padding: "10px 16px",
+                  }}
+                >
+                  📦 Track Your Item
+                </a>
+                <a
+                  href={`https://www.att.com/support/article/wireless/KM1436349/?orderid=${od().id}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn-secondary"
+                  style={{
+                    textDecoration: "none",
+                    textAlign: "center",
+                    padding: "10px 16px",
+                  }}
+                >
+                  ↩ Return Equipment
+                </a>
+              </div>
+            </div>
           </div>
 
           {/* Actions */}

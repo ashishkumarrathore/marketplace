@@ -29,7 +29,7 @@ export default function LoginPage() {
         const profile = await fetchProfile();
         // profile.user + account
         saveUser(profile.user);
-        sessionStorage.setItem("marketone_user", JSON.stringify(profile));
+        sessionStorage.setItem("marketone_profile", JSON.stringify(profile));
       } catch (err) {
         // ignore
       }

@@ -1,0 +1,324 @@
+.checkout-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 28px;
+  align-items: start;
+  overflow-x: hidden;
+}
+
+.checkout-forms {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.checkout-section {
+  margin: 0;
+}
+
+.input-error {
+  border-color: var(--danger) !important;
+  box-shadow: 0 0 0 3px var(--danger-dim) !important;
+}
+
+/* Saved cards */
+.saved-cards-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.saved-card-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.saved-card-row:hover {
+  border-color: var(--accent-glow);
+}
+.saved-card-row.selected {
+  border-color: var(--accent);
+  background: var(--accent-dim);
+}
+.card-radio {
+  flex-shrink: 0;
+}
+.radio-dot {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.radio-dot::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.radio-dot.active {
+  border-color: var(--accent);
+}
+.radio-dot.active::after {
+  opacity: 1;
+}
+.card-brand-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+.card-details {
+  flex: 1;
+  min-width: 0;
+}
+.card-num {
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.add-card-trigger {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 16px;
+  background: transparent;
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  color: var(--muted);
+  font-size: 0.875rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  justify-content: center;
+}
+.add-card-trigger:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-dim);
+}
+
+/* Wallet credit box */
+.wallet-credit-box {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+  background: var(--accent2-dim);
+  border: 1px solid rgba(0, 206, 201, 0.25);
+  border-radius: var(--radius-sm);
+}
+.wallet-credit-icon {
+  font-size: 2rem;
+  color: var(--accent2);
+  flex-shrink: 0;
+}
+.wallet-credit-info {
+  flex: 1;
+}
+.wallet-credit-balance {
+  font-size: 1.05rem;
+  color: var(--accent2);
+  font-weight: 600;
+}
+.wallet-credit-amount {
+  font-size: 1rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+/* Order summary */
+.order-summary-panel {
+  width: 100%;
+  position: static;
+}
+.order-summary-title {
+  font-family: var(--font-head);
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.summary-items {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.summary-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+.summary-item-emoji {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+  line-height: 1;
+  margin-top: 2px;
+}
+.summary-item-info {
+  flex: 1;
+  min-width: 0;
+}
+.summary-item-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.summary-item-price {
+  font-size: 0.875rem;
+  color: var(--text-soft);
+  flex-shrink: 0;
+  margin-left: 4px;
+}
+
+.summary-financials {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+.summary-fin-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.875rem;
+}
+.summary-total {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.secure-note {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-top: 12px;
+}
+
+@media (max-width: 960px) {
+  .checkout-layout {
+    grid-template-columns: 1fr;
+  }
+  .order-summary-panel {
+    position: static;
+    order: -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .checkout-layout {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  .order-summary-panel {
+    position: static;
+    order: 0;
+  }
+  .checkout-forms {
+    gap: 12px;
+  }
+  .checkout-section {
+    gap: 12px;
+  }
+  .form-group {
+    gap: 4px;
+  }
+  .form-label {
+    font-size: 0.75rem;
+  }
+  .input-field {
+    font-size: 0.85rem;
+    padding: 9px 12px;
+  }
+  .select-field {
+    font-size: 0.85rem;
+    padding: 9px 32px 9px 12px;
+  }
+  .saved-card-row {
+    padding: 12px;
+    font-size: 0.85rem;
+  }
+  .btn {
+    padding: 9px 18px;
+    font-size: 0.8rem;
+  }
+  .btn-lg {
+    padding: 11px 20px;
+    font-size: 0.9rem;
+  }
+  .order-summary-panel {
+    gap: 12px;
+  }
+  .order-summary-title {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .checkout-layout {
+    gap: 12px;
+    display: block;
+  }
+  .checkout-forms {
+    gap: 10px;
+  }
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+  .form-label {
+    font-size: 0.7rem;
+  }
+  .input-field {
+    font-size: 0.8rem;
+    padding: 8px 10px;
+  }
+  .select-field {
+    font-size: 0.8rem;
+    padding: 8px 28px 8px 10px;
+  }
+  .wallet-credit-box {
+    padding: 12px;
+    gap: 10px;
+  }
+  .wallet-credit-icon {
+    font-size: 1.5rem;
+  }
+  .wallet-credit-balance {
+    font-size: 0.95rem;
+  }
+  .btn {
+    padding: 8px 14px;
+    font-size: 0.75rem;
+  }
+  .btn-lg {
+    padding: 12px 16px;
+    font-size: 0.85rem;
+  }
+  .order-summary-title {
+    font-size: 0.95rem;
+    margin-bottom: 12px;
+  }
+  .summary-items {
+    gap: 10px;
+  }
+  /* Simple bottom placement - no fixed overlay */
+  .order-summary-panel {
+    position: static;
+    width: 100%;
+    margin-top: 20px;
+    padding: 0;
+  }
+  .order-summary-card {
+    padding: 16px;
+  }
+}

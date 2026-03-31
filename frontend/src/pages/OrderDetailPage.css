@@ -1,0 +1,316 @@
+/* OrderDetailPage.css — Order detail view styling */
+
+.order-detail-outer {
+  padding: 20px 0;
+}
+
+.order-detail-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ── Header ────────────────────────────────────────────── */
+
+.order-detail-hero {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.order-detail-header-status {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.check-wrap {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #4ade80, #22c55e);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: scaleIn 0.5s ease-out;
+  box-shadow: 0 4px 20px rgba(34, 197, 94, 0.3);
+}
+
+.check-wrap.pending {
+  background: linear-gradient(135deg, #f59e0b, #d97706);
+  box-shadow: 0 4px 20px rgba(217, 119, 6, 0.3);
+}
+
+.check {
+  font-size: 40px;
+  color: white;
+  font-weight: 700;
+}
+
+.check.pending-icon {
+  font-size: 36px;
+}
+
+@keyframes scaleIn {
+  from {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.order-detail-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0 0 8px 0;
+  color: var(--text-primary);
+}
+
+.order-detail-sub {
+  font-size: 14px;
+  color: var(--text-soft);
+  margin: 0;
+}
+
+.order-detail-email {
+  margin-top: 12px;
+}
+
+/* ── Main card ─────────────────────────────────────────── */
+
+.order-detail-card {
+  margin-bottom: 30px;
+  padding: 30px;
+}
+
+.order-detail-section {
+  margin-bottom: 20px;
+}
+
+.order-detail-section:last-child {
+  margin-bottom: 0;
+}
+
+.order-detail-section-label {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-soft);
+  margin-bottom: 12px;
+}
+
+/* ── Items ─────────────────────────────────────────────── */
+
+.order-detail-items {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.order-detail-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+}
+
+.order-detail-item-emoji {
+  font-size: 28px;
+  flex-shrink: 0;
+}
+
+.order-detail-item-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.order-detail-item-title {
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.order-detail-item-qty {
+  color: var(--text-soft);
+  font-size: 13px;
+  flex-shrink: 0;
+}
+
+.order-detail-item-price {
+  color: var(--accent2);
+  font-weight: 600;
+  flex-shrink: 0;
+  min-width: 80px;
+  text-align: right;
+}
+
+/* ── Payment math ──────────────────────────────────────── */
+
+.order-detail-math {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 14px;
+}
+
+.math-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 0;
+}
+
+.math-row.text-muted {
+  color: var(--text-soft);
+}
+
+.math-row.text-success {
+  color: var(--success);
+  font-weight: 500;
+}
+
+.math-total {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.math-total-amount {
+  color: var(--accent2);
+  font-size: 18px;
+}
+
+/* ── Two column layout ─────────────────────────────────── */
+
+.order-detail-two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+@media (max-width: 600px) {
+  .order-detail-two-col {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.order-detail-address {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.order-detail-card-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.order-detail-card-info span {
+  font-size: 24px;
+}
+
+/* ── Status tracker ────────────────────────────────────── */
+
+.status-track {
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+
+.status-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+}
+
+.status-step-dot {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  color: var(--text-soft);
+  font-size: 18px;
+}
+
+.status-step.active .status-step-dot {
+  background: var(--success);
+  border-color: var(--success);
+  color: white;
+}
+
+.status-step-label {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-soft);
+  text-align: center;
+}
+
+.status-step.active .status-step-label {
+  color: var(--success);
+  font-weight: 600;
+}
+
+/* ── Divider ───────────────────────────────────────────── */
+
+.divider {
+  height: 1px;
+  background: var(--border-color);
+  margin: 20px 0;
+}
+
+/* ── Actions ───────────────────────────────────────────── */
+
+.order-detail-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.order-detail-actions .btn {
+  flex: 1;
+  min-width: 200px;
+}
+
+@media (max-width: 600px) {
+  .order-detail-actions {
+    flex-direction: column;
+  }
+
+  .order-detail-actions .btn {
+    min-width: 100%;
+  }
+
+  .order-detail-card {
+    padding: 20px;
+  }
+
+  .order-detail-title {
+    font-size: 24px;
+  }
+
+  .order-detail-two-col {
+    gap: 20px;
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "0c64dc84db644e6aaca3aebf3d168433",
+      "username": "Ashish",
+      "password": "dsdasd",
+      "token": "521bf895f8e44e139307d44834f53743",
+      "created_at": "2026-03-29T04:20:07.034723",
+      "wallet": {
+        "balance": 59.44,
+        "history": []
+      },
+      "accounts": [
+        {
+          "account_id": 1000,
+          "payment_methods": [
+            {
+              "id": "card_001",
+              "brand": "Visa",
+              "masked": "\u2022\u2022\u2022\u20224242",
+              "exp": "12/28"
+            },
+            {
+              "id": "card_002",
+              "brand": "Mastercard",
+              "masked": "\u2022\u2022\u2022\u20225555",
+              "exp": "09/27"
+            }
+          ],
+          "orders": []
+        }
+      ],
+      "email": ""
+    },
+    {
+      "id": "858677b245f448bca588f0d154a7592d",
+      "username": "Reyan",
+      "password": "unix11!",
+      "token": "da9477bbc6ac41fba7ce92e22408fed9",
+      "created_at": "2026-03-29T23:49:45.765009",
+      "wallet": {
+        "balance": 145.62,
+        "history": []
+      },
+      "accounts": [
+        {
+          "account_id": 1001,
+          "payment_methods": [
+            {
+              "id": "card_001",
+              "brand": "Visa",
+              "masked": "\u2022\u2022\u2022\u20224242",
+              "exp": "12/28"
+            },
+            {
+              "id": "card_002",
+              "brand": "Mastercard",
+              "masked": "\u2022\u2022\u2022\u20225555",
+              "exp": "09/27"
+            }
+          ],
+          "orders": []
+        }
+      ],
+      "email": ""
+    },
+    {
+      "id": "5d0670644b7e470ca13f5ff4843dcc70",
+      "username": "Reyan1",
+      "password": "askahsasas",
+      "token": "5c84f9d14ade45d5b5d1f813d3109f91",
+      "created_at": "2026-03-30T01:31:42.452378",
+      "wallet": {
+        "balance": 194.01,
+        "history": []
+      },
+      "accounts": [
+        {
+          "account_id": 1002,
+          "payment_methods": [
+            {
+              "id": "card_001",
+              "brand": "Visa",
+              "masked": "\u2022\u2022\u2022\u20224242",
+              "exp": "12/28"
+            },
+            {
+              "id": "card_002",
+              "brand": "Mastercard",
+              "masked": "\u2022\u2022\u2022\u20225555",
+              "exp": "09/27"
+            }
+          ],
+          "orders": []
+        }
+      ],
+      "email": ""
+    },
+    {
+      "id": "cf13396588ec452281fefb25a3034d76",
+      "username": "test1",
+      "password": "23123",
+      "token": "a9cefad9496048009178bbc8d160f2da",
+      "created_at": "2026-03-30T01:38:23.470882",
+      "wallet": {
+        "balance": 64.33,
+        "history": []
+      },
+      "accounts": [
+        {
+          "account_id": 1003,
+          "payment_methods": [
+            {
+              "id": "card_001",
+              "brand": "Visa",
+              "masked": "\u2022\u2022\u2022\u20224242",
+              "exp": "12/28"
+            },
+            {
+              "id": "card_002",
+              "brand": "Mastercard",
+              "masked": "\u2022\u2022\u2022\u20225555",
+              "exp": "09/27"
+            }
+          ],
+          "orders": []
+        }
+      ],
+      "email": ""
+    },
+    {
+      "id": "ca806299dcde4c75857592a69dca13e1",
+      "username": "test2",
+      "password": "2213we",
+      "token": "e959b2beca67400caf2b701dd0e332b3",
+      "created_at": "2026-03-30T01:44:40.930702",
+      "wallet": {
+        "balance": 17.35,
+        "history": []
+      },
+      "accounts": [
+        {
+          "account_id": 1004,
+          "payment_methods": [
+            {
+              "id": "card_001",
+              "brand": "Visa",
+              "masked": "\u2022\u2022\u2022\u20224242",
+              "exp": "12/28"
+            },
+            {
+              "id": "card_002",
+              "brand": "Mastercard",
+              "masked": "\u2022\u2022\u2022\u20225555",
+              "exp": "09/27"
+            }
+          ],
+          "orders": []
+        }
+      ],
+      "email": ""
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+.filters-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 28px;
+  padding: 16px 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.search-input {
+  flex: 1;
+  min-width: 220px;
+}
+.brand-select {
+  width: 170px;
+  flex-shrink: 0;
+}
+.type-chips {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
+}
+.type-chip {
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.type-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.type-chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+/* Grid */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(252px, 1fr));
+  gap: 18px;
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  overflow: hidden;
+  transition: all 0.25s ease;
+  background: var(--surface);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 18px rgba(13, 20, 30, 0.03);
+  min-height: 360px;
+}
+.product-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 36px rgba(13, 20, 30, 0.06);
+}
+
+.product-card-img {
+  position: relative;
+  aspect-ratio: 1;
+  background: radial-gradient(
+    ellipse at 50% 100%,
+    rgba(108, 92, 231, 0.06) 0%,
+    var(--surface) 70%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 18px;
+}
+.product-image {
+  max-width: 72%;
+  max-height: 72%;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  transition: transform 0.18s;
+}
+.product-card-img:hover .product-image {
+  transform: translateY(-6px) scale(1.03);
+}
+
+.product-brand {
+  font-size: 0.72rem;
+  color: var(--muted);
+}
+.product-title {
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.35;
+  color: var(--text);
+}
+.product-desc {
+  line-height: 1.5;
+  flex: 1;
+  font-size: 0.88rem;
+  color: var(--text-soft);
+}
+
+.product-card-body {
+  padding: 12px 16px 8px 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  border-top: 1px solid var(--border-soft);
+}
+.product-card-footer {
+  padding: 12px 16px;
+  border-top: 1px solid var(--border-soft);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.01);
+}
+.product-price {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent2);
+  letter-spacing: -0.01em;
+  flex-shrink: 0;
+}
+.btn.btn-primary.btn-sm {
+  padding: 8px 12px;
+  font-weight: 700;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+/* Inserted: variant badges and color swatches for catalog cards */
+.variant-badges {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 6px;
+}
+.storage-badge {
+  background: var(--surface-soft, #f6f8fb);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  font-weight: 700;
+  font-size: 0.82rem;
+  padding: 6px 8px;
+  border-radius: 999px;
+  letter-spacing: -0.01em;
+}
+.color-swatch {
+  /* keep existing sizing but ensure it's visually a perfect circle */
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative; /* anchor for the tooltip */
+  overflow: visible;
+  transition:
+    transform 0.12s ease,
+    box-shadow 0.12s ease,
+    border 0.12s ease;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+.color-swatch .swatch-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 2px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.03) inset;
+}
+.color-swatch .swatch-fill.white {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+/* tooltip that appears on hover; uses the element's title attribute */
+.color-swatch::after {
+  content: attr(title);
+  position: absolute; /* positioned relative to the swatch */
+  left: calc(100% + 10px); /* appear to the right of the swatch */
+  top: 50%;
+  transform: translateY(-50%);
+  background: var(--surface);
+  color: var(--text);
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  box-shadow: 0 8px 20px rgba(10, 15, 25, 0.12);
+  border: 1px solid var(--border);
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    opacity 0.12s ease,
+    transform 0.12s ease;
+  z-index: 60;
+}
+/* small arrow pointing back to the swatch */
+.color-swatch::before {
+  content: "";
+  position: absolute;
+  left: calc(100% + 4px);
+  top: 50%;
+  transform: translateY(-50%);
+  width: 8px;
+  height: 8px;
+  background: var(--surface);
+  border-left: 1px solid var(--border);
+  border-top: 1px solid var(--border);
+  transform: translateY(-50%) rotate(45deg);
+  opacity: 0;
+  transition: opacity 0.12s ease;
+  z-index: 59;
+}
+.color-swatch:hover {
+  transform: scale(1.12);
+}
+.color-swatch:hover::after,
+.color-swatch:hover::before {
+  opacity: 1;
+}
+/* allow tooltip to remain visible if the swatch is focused (keyboard) */
+.color-swatch:focus::after,
+.color-swatch:focus::before {
+  opacity: 1;
+}
+/* On very small screens show tooltip above the swatch to avoid overflow */
+@media (max-width: 480px) {
+  .color-swatch::after {
+    left: 50%;
+    top: calc(-100% - 10px);
+    transform: translateX(-50%) translateY(0);
+  }
+  .color-swatch::before {
+    left: 50%;
+    top: calc(-6px);
+    transform: translateX(-50%) rotate(45deg);
+  }
+}
+@media (max-width: 800px) {
+  .product-card {
+    min-height: 320px;
+  }
+  .product-image {
+    max-width: 68%;
+  }
+}
+
+@media (max-width: 600px) {
+  .product-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .filters-bar {
+    padding: 12px;
+  }
+  .brand-select {
+    width: 100%;
+  }
+  .search-input {
+    min-width: 100%;
+  }
+  .storage-badge {
+    font-size: 0.78rem;
+    padding: 5px 7px;
+  }
+  .color-swatch {
+    width: 16px;
+    height: 16px;
+  }
+}
+@media (max-width: 480px) {
+  .product-card {
+    min-height: 260px;
+  }
+  .product-image {
+    max-width: 56%;
+  }
+}
+
+@media (max-width: 400px) {
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+}

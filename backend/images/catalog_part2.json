@@ -1,0 +1,4581 @@
+{
+  "build": {
+    "version": "3.1.25.11-rc4",
+    "start": "2026-03-25 17:12:37.832",
+    "end": "2026-03-25 17:12:37.832",
+    "duration": "0s",
+    "mode": "Release"
+  },
+  "page": {
+    "current": 1,
+    "total": 1,
+    "items_count": 96,
+    "total_items_count": 96
+  },
+  "resources": [
+    {
+      "metatype": "Product",
+      "primary": 6627,
+      "id": "34108f19-a586-11da-e8b3-66d1f8a71578",
+      "platform_id": "iphone_17_256gb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 999,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 256GB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5427,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 2290,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 6041,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5175,
+          "id": "91a2e1a4-de75-987f-0901-e271030cd307",
+          "platform_id": "iphone_17_256gb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_256gb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5427,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 2290,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 6041,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_256gb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6618,
+      "id": "b0772774-4262-cbb3-9c2b-acc66c54ca4a",
+      "platform_id": "iphone_17_256gb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 999,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 256GB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1984,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-deep-blue/hero.png"
+          },
+          {
+            "primary": 6767,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 9061,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4958,
+          "id": "f0d52015-c5ab-94fd-e49d-484f730752a0",
+          "platform_id": "iphone_17_256gb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_256gb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1984,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-deep-blue/hero.png"
+              },
+              {
+                "primary": 6767,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 9061,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_256gb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3103,
+      "id": "bcb5da30-5cde-1411-da97-95b43542e61d",
+      "platform_id": "iphone_17_256gb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 999,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 256GB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 3659,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-silver/hero.png"
+          },
+          {
+            "primary": 7797,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-silver/360/spin.glb"
+          },
+          {
+            "primary": 4489,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3210,
+          "id": "d78fb442-a227-95fe-c3ad-c5403ae02f57",
+          "platform_id": "iphone_17_256gb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_256gb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 3659,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-silver/hero.png"
+              },
+              {
+                "primary": 7797,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-silver/360/spin.glb"
+              },
+              {
+                "primary": 4489,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-256gb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_256gb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3862,
+      "id": "64cd30a8-c49a-b76d-6f9c-0ee3e0e2dcf4",
+      "platform_id": "iphone_17_512gb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1149,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 512GB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8237,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 2439,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 3151,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3732,
+          "id": "7c6c93ae-60e1-9276-66df-283baf72ff24",
+          "platform_id": "iphone_17_512gb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_512gb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8237,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 2439,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 3151,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_512gb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6323,
+      "id": "2c6d62a8-db98-e389-36d0-b609ee0e81d8",
+      "platform_id": "iphone_17_512gb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1149,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 512GB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6480,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-deep-blue/hero.png"
+          },
+          {
+            "primary": 4918,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 6352,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8073,
+          "id": "681193f5-191f-ba73-7923-e8ba02f80930",
+          "platform_id": "iphone_17_512gb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_512gb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6480,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-deep-blue/hero.png"
+              },
+              {
+                "primary": 4918,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 6352,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_512gb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8139,
+      "id": "21016dc8-78df-a1ba-43bd-2fb107c1d0a2",
+      "platform_id": "iphone_17_512gb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1149,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 512GB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8888,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-silver/hero.png"
+          },
+          {
+            "primary": 2629,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-silver/360/spin.glb"
+          },
+          {
+            "primary": 4014,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3257,
+          "id": "09376484-258b-1b72-41ae-f6fa28241c19",
+          "platform_id": "iphone_17_512gb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_512gb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8888,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-silver/hero.png"
+              },
+              {
+                "primary": 2629,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-silver/360/spin.glb"
+              },
+              {
+                "primary": 4014,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-512gb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_512gb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 510,
+      "id": "88e4e05d-48f1-62ec-8955-dd8fb58f485e",
+      "platform_id": "iphone_17_1tb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1349,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 1TB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9476,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 5313,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 1554,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1175,
+          "id": "4b67fdcb-4651-965f-0e3a-28a9b43f9397",
+          "platform_id": "iphone_17_1tb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_1tb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9476,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 5313,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 1554,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_1tb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8214,
+      "id": "5f4aa032-5f36-df78-0b26-4cb31b8a1406",
+      "platform_id": "iphone_17_1tb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1349,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 1TB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6759,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-deep-blue/hero.png"
+          },
+          {
+            "primary": 8892,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 4477,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7844,
+          "id": "c23791fe-cd87-efe7-544a-c1d7724ac0ea",
+          "platform_id": "iphone_17_1tb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_1tb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6759,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-deep-blue/hero.png"
+              },
+              {
+                "primary": 8892,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 4477,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_1tb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 129,
+      "id": "1d13a801-cbb4-94c7-ced2-de5399d61bee",
+      "platform_id": "iphone_17_1tb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1349,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 1TB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9077,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-silver/hero.png"
+          },
+          {
+            "primary": 7011,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-silver/360/spin.glb"
+          },
+          {
+            "primary": 4599,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5707,
+          "id": "d9fed810-261c-87cc-c9a7-748284c1e163",
+          "platform_id": "iphone_17_1tb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_1tb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9077,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-silver/hero.png"
+              },
+              {
+                "primary": 7011,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-silver/360/spin.glb"
+              },
+              {
+                "primary": 4599,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-1tb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_1tb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 299,
+      "id": "c5fdfeb8-1b30-3e40-97d4-ff0ffefe723e",
+      "platform_id": "iphone_17_2tb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1549,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 2TB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8249,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 1771,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 5394,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1576,
+          "id": "4f17514c-3869-3374-79de-2da123f591ff",
+          "platform_id": "iphone_17_2tb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_2tb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8249,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 1771,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 5394,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_2tb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9054,
+      "id": "62405461-16a9-4c7b-6ffc-83b60442b36a",
+      "platform_id": "iphone_17_2tb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1549,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 2TB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5923,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-deep-blue/hero.png"
+          },
+          {
+            "primary": 5961,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 6418,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 51,
+          "id": "e0407773-1a95-ba53-761b-99fba2632a13",
+          "platform_id": "iphone_17_2tb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_2tb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5923,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-deep-blue/hero.png"
+              },
+              {
+                "primary": 5961,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 6418,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_2tb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 7524,
+      "id": "dedca2f5-0ea4-2538-c404-f2bfed24ba6b",
+      "platform_id": "iphone_17_2tb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1549,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 2TB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6347,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-silver/hero.png"
+          },
+          {
+            "primary": 9795,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-silver/360/spin.glb"
+          },
+          {
+            "primary": 6298,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7983,
+          "id": "77d29f72-a57e-f0e3-88c1-ab4317d7d3af",
+          "platform_id": "iphone_17_2tb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_2tb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6347,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-silver/hero.png"
+              },
+              {
+                "primary": 9795,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-silver/360/spin.glb"
+              },
+              {
+                "primary": 6298,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-2tb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_2tb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1399,
+      "id": "618f1152-c3ed-17ee-d099-e3241ba1bbcb",
+      "platform_id": "galaxy_s26_ultra_256gb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 256GB Phantom Black"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4282,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-phantom-black/hero.png"
+          },
+          {
+            "primary": 5833,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 7871,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-phantom-black/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 924,
+          "id": "69ec72bc-68fb-754a-83be-0a607d422837",
+          "platform_id": "galaxy_s26_ultra_256gb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_256gb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4282,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-phantom-black/hero.png"
+              },
+              {
+                "primary": 5833,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 7871,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-phantom-black/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_256gb_phantom_black_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Phantom Black with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6633,
+      "id": "bc47c4a8-c58a-8e27-211e-93de9a308552",
+      "platform_id": "galaxy_s26_ultra_256gb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 256GB Titan Gray"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5315,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-titan-gray/hero.png"
+          },
+          {
+            "primary": 4905,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 9218,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-titan-gray/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3638,
+          "id": "3b461b52-d4c2-2888-54d7-6bc7ddb57058",
+          "platform_id": "galaxy_s26_ultra_256gb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_256gb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5315,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-titan-gray/hero.png"
+              },
+              {
+                "primary": 4905,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 9218,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-titan-gray/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_256gb_titan_gray_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Titan Gray with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3458,
+      "id": "347a1fee-d5b6-9c58-1955-7a009ece81d2",
+      "platform_id": "galaxy_s26_ultra_256gb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 256GB Emerald Green"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6200,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-emerald-green/hero.png"
+          },
+          {
+            "primary": 8715,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 6157,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-emerald-green/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8694,
+          "id": "6f8c9363-709a-1801-354b-7a6d77c4ac10",
+          "platform_id": "galaxy_s26_ultra_256gb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_256gb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6200,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-emerald-green/hero.png"
+              },
+              {
+                "primary": 8715,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 6157,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-emerald-green/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_256gb_emerald_green_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Emerald Green with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3260,
+      "id": "017782d6-3fd1-f721-1f32-cb4ef5e40e04",
+      "platform_id": "galaxy_s26_ultra_256gb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 256GB Aurora Violet"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6984,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-aurora-violet/hero.png"
+          },
+          {
+            "primary": 8159,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 1859,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-aurora-violet/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4247,
+          "id": "de51508e-42f5-0b43-e384-b00f0d170510",
+          "platform_id": "galaxy_s26_ultra_256gb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_256gb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6984,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-aurora-violet/hero.png"
+              },
+              {
+                "primary": 8159,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 1859,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-256gb-aurora-violet/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_256gb_aurora_violet_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Aurora Violet with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 751,
+      "id": "f2c9aba6-857a-982a-8f43-fbad88c67dfc",
+      "platform_id": "galaxy_s26_ultra_512gb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 512GB Phantom Black"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6926,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-phantom-black/hero.png"
+          },
+          {
+            "primary": 8019,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 7329,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-phantom-black/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 250,
+          "id": "ff84c31c-8a97-ae19-a0fe-a6b1061084e8",
+          "platform_id": "galaxy_s26_ultra_512gb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_512gb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6926,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-phantom-black/hero.png"
+              },
+              {
+                "primary": 8019,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 7329,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-phantom-black/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_512gb_phantom_black_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Phantom Black with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 5872,
+      "id": "5128d4ab-a900-d94e-9bc3-f4e695fd8a2f",
+      "platform_id": "galaxy_s26_ultra_512gb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 512GB Titan Gray"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6305,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-titan-gray/hero.png"
+          },
+          {
+            "primary": 6264,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 3829,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-titan-gray/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9813,
+          "id": "924be213-4409-6f1a-d362-4a963d1b29bc",
+          "platform_id": "galaxy_s26_ultra_512gb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_512gb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6305,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-titan-gray/hero.png"
+              },
+              {
+                "primary": 6264,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 3829,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-titan-gray/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_512gb_titan_gray_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Titan Gray with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2102,
+      "id": "743c38dc-2338-732c-e5ed-bff2061bf815",
+      "platform_id": "galaxy_s26_ultra_512gb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 512GB Emerald Green"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8250,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-emerald-green/hero.png"
+          },
+          {
+            "primary": 8315,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 2812,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-emerald-green/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8315,
+          "id": "eae7c091-71e1-8836-b7f4-bdcc272e56b7",
+          "platform_id": "galaxy_s26_ultra_512gb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_512gb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8250,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-emerald-green/hero.png"
+              },
+              {
+                "primary": 8315,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 2812,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-emerald-green/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_512gb_emerald_green_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Emerald Green with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6268,
+      "id": "661f07da-b30a-0bb3-a845-2917602005b0",
+      "platform_id": "galaxy_s26_ultra_512gb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 512GB Aurora Violet"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1119,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-aurora-violet/hero.png"
+          },
+          {
+            "primary": 1127,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 3836,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-aurora-violet/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1629,
+          "id": "24055ecb-33de-f5f2-3103-03f147a3e608",
+          "platform_id": "galaxy_s26_ultra_512gb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_512gb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1119,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-aurora-violet/hero.png"
+              },
+              {
+                "primary": 1127,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 3836,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-512gb-aurora-violet/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_512gb_aurora_violet_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Aurora Violet with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2458,
+      "id": "6c18fffd-f64c-000b-3894-b51279ded7ac",
+      "platform_id": "galaxy_s26_ultra_1tb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 1TB Phantom Black"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1296,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-phantom-black/hero.png"
+          },
+          {
+            "primary": 8665,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 6359,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-phantom-black/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5927,
+          "id": "e54674b2-ba94-de9c-b5f6-589342e8da7b",
+          "platform_id": "galaxy_s26_ultra_1tb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_1tb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1296,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-phantom-black/hero.png"
+              },
+              {
+                "primary": 8665,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 6359,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-phantom-black/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_1tb_phantom_black_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Phantom Black with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2819,
+      "id": "3fd0c202-7f8a-5972-3f73-61301aefbfdd",
+      "platform_id": "galaxy_s26_ultra_1tb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 1TB Titan Gray"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8327,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-titan-gray/hero.png"
+          },
+          {
+            "primary": 8690,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 2468,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-titan-gray/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5102,
+          "id": "b92ac07b-8478-e524-4274-83001a28b08a",
+          "platform_id": "galaxy_s26_ultra_1tb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_1tb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8327,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-titan-gray/hero.png"
+              },
+              {
+                "primary": 8690,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 2468,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-titan-gray/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_1tb_titan_gray_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Titan Gray with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4275,
+      "id": "73fa93bb-0209-cc52-640e-2ae882292b52",
+      "platform_id": "galaxy_s26_ultra_1tb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 1TB Emerald Green"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5222,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-emerald-green/hero.png"
+          },
+          {
+            "primary": 6295,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 8388,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-emerald-green/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4386,
+          "id": "83b75ccc-f441-b911-2967-c87dbfbff824",
+          "platform_id": "galaxy_s26_ultra_1tb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_1tb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5222,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-emerald-green/hero.png"
+              },
+              {
+                "primary": 6295,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 8388,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-emerald-green/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_1tb_emerald_green_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Emerald Green with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 530,
+      "id": "0a4fbc0e-b6fb-c558-1d1c-afb35b8c04e8",
+      "platform_id": "galaxy_s26_ultra_1tb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 1TB Aurora Violet"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4477,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-aurora-violet/hero.png"
+          },
+          {
+            "primary": 4492,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 2711,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-aurora-violet/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3082,
+          "id": "3a3416d0-5391-9cbf-c416-a8555ab70b3f",
+          "platform_id": "galaxy_s26_ultra_1tb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_1tb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4477,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-aurora-violet/hero.png"
+              },
+              {
+                "primary": 4492,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 2711,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-1tb-aurora-violet/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_1tb_aurora_violet_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Aurora Violet with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2669,
+      "id": "fa904579-9360-fc62-edf9-8a0dd8569402",
+      "platform_id": "galaxy_s26_ultra_2tb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 2TB Phantom Black"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Phantom Black with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4437,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-phantom-black/hero.png"
+          },
+          {
+            "primary": 9293,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 3866,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-phantom-black/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9942,
+          "id": "ec5886fe-7d0a-df3c-0273-cb179e5e2cdd",
+          "platform_id": "galaxy_s26_ultra_2tb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_2tb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4437,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-phantom-black/hero.png"
+              },
+              {
+                "primary": 9293,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 3866,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-phantom-black/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_2tb_phantom_black_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Phantom Black with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6799,
+      "id": "77390f6c-8a8c-f48d-8509-300955ceab55",
+      "platform_id": "galaxy_s26_ultra_2tb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 2TB Titan Gray"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Titan Gray with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1530,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-titan-gray/hero.png"
+          },
+          {
+            "primary": 8533,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 7732,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-titan-gray/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9524,
+          "id": "0e86282b-ffd9-58d3-d7c2-0b9ce2c5f69f",
+          "platform_id": "galaxy_s26_ultra_2tb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_2tb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1530,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-titan-gray/hero.png"
+              },
+              {
+                "primary": 8533,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 7732,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-titan-gray/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_2tb_titan_gray_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Titan Gray with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2751,
+      "id": "cf14b93e-947d-7822-c3f5-e5b548bc2bdf",
+      "platform_id": "galaxy_s26_ultra_2tb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 2TB Emerald Green"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Emerald Green with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1433,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-emerald-green/hero.png"
+          },
+          {
+            "primary": 2460,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 2040,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-emerald-green/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 6272,
+          "id": "d2e16a4a-27d4-b463-08be-3879a74e6b70",
+          "platform_id": "galaxy_s26_ultra_2tb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_2tb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1433,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-emerald-green/hero.png"
+              },
+              {
+                "primary": 2460,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 2040,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-emerald-green/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_2tb_emerald_green_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Emerald Green with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2681,
+      "id": "5720fd44-db40-3fe3-bb01-7658e9fd23b9",
+      "platform_id": "galaxy_s26_ultra_2tb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "Galaxy S26 Ultra 2TB Aurora Violet"
+      },
+      "subtitle": {
+        "en_US": "Samsung"
+      },
+      "description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 Ultra in Aurora Violet with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5689,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-aurora-violet/hero.png"
+          },
+          {
+            "primary": 4061,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 6465,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-aurora-violet/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5236,
+          "id": "756ebb20-904e-c827-3bcb-87767d209854",
+          "platform_id": "galaxy_s26_ultra_2tb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_ultra_2tb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5689,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-aurora-violet/hero.png"
+              },
+              {
+                "primary": 4061,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 6465,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-ultra-2tb-aurora-violet/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "galaxy_s26_ultra_2tb_aurora_violet_offer"
+          },
+          "description": {
+            "en_US": "Galaxy S26 Ultra in Aurora Violet with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    }
+  ]
+}

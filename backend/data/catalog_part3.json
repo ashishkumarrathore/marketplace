@@ -1,0 +1,4017 @@
+{
+  "build": {
+    "version": "3.1.25.11-rc4",
+    "start": "2026-03-25 17:12:37.832",
+    "end": "2026-03-25 17:12:37.832",
+    "duration": "0s",
+    "mode": "Release"
+  },
+  "page": {
+    "current": 1,
+    "total": 1,
+    "items_count": 96,
+    "total_items_count": 96
+  },
+  "resources": [
+    {
+      "metatype": "Product",
+      "primary": 2768,
+      "id": "e8f55a6f-6d6b-65e3-9960-0c5b911d53c2",
+      "platform_id": "galaxy_s26_256gb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 999, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 256GB Phantom Black" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Phantom Black with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Phantom Black with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5802,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-phantom-black.jpeg"
+          },
+          {
+            "primary": 7794,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 4537,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-phantom-black/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5076,
+          "id": "a1e62a42-4f6d-7e0b-8b5b-bcd876e73954",
+          "platform_id": "galaxy_s26_256gb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_256gb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5802,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-phantom-black.jpeg"
+              },
+              {
+                "primary": 7794,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 4537,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-phantom-black/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_256gb_phantom_black_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Phantom Black with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2183,
+      "id": "09908609-53bd-7a4d-f724-b14af7919888",
+      "platform_id": "galaxy_s26_256gb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 999, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 256GB Titan Gray" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Titan Gray with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Titan Gray with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 2023,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-titan-gray.jpeg"
+          },
+          {
+            "primary": 9659,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 6410,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-titan-gray/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 80,
+          "id": "c9427a94-4dc2-cb76-f6a7-3fafbb45a35f",
+          "platform_id": "galaxy_s26_256gb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_256gb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 2023,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-titan-gray.jpeg"
+              },
+              {
+                "primary": 9659,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 6410,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-titan-gray/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_256gb_titan_gray_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Titan Gray with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9608,
+      "id": "eb7278f2-3612-00a9-8009-413a1d31b32a",
+      "platform_id": "galaxy_s26_256gb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 999, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 256GB Emerald Green" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Emerald Green with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Emerald Green with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 2647,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-emerald-green.jpeg"
+          },
+          {
+            "primary": 2391,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 6938,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-emerald-green/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1430,
+          "id": "28210ca4-5ebd-d92c-c143-4252cfe4ce88",
+          "platform_id": "galaxy_s26_256gb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_256gb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 2647,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-emerald-green.jpeg"
+              },
+              {
+                "primary": 2391,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 6938,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-emerald-green/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_256gb_emerald_green_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Emerald Green with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2209,
+      "id": "d8754673-d3ed-8861-70f3-1ed3d083f9a1",
+      "platform_id": "galaxy_s26_256gb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 999, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 256GB Aurora Violet" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9093,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-aurora-violet.jpeg"
+          },
+          {
+            "primary": 8784,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 6204,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-aurora-violet/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7778,
+          "id": "39f4542f-9b9f-8bfb-37bb-a279f5e05985",
+          "platform_id": "galaxy_s26_256gb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_256gb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9093,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-aurora-violet.jpeg"
+              },
+              {
+                "primary": 8784,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 6204,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-256gb-aurora-violet/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_256gb_aurora_violet_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Aurora Violet with 256GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9060,
+      "id": "c4cf60b7-317b-a108-d2f6-c6b3e717b31b",
+      "platform_id": "galaxy_s26_512gb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1149, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 512GB Phantom Black" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Phantom Black with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Phantom Black with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7858,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-phantom-black.jpeg"
+          },
+          {
+            "primary": 1486,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 4906,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-phantom-black/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8597,
+          "id": "94e4ee9d-69b3-e9f6-12e7-2b54a4453157",
+          "platform_id": "galaxy_s26_512gb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_512gb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7858,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-phantom-black.jpeg"
+              },
+              {
+                "primary": 1486,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 4906,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-phantom-black/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_512gb_phantom_black_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Phantom Black with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9685,
+      "id": "57cdc53f-2c95-c6ec-8833-a68b4ad063dc",
+      "platform_id": "galaxy_s26_512gb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1149, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 512GB Titan Gray" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Titan Gray with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Titan Gray with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5067,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+          },
+          {
+            "primary": 8744,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 5486,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-titan-gray/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7366,
+          "id": "f6d12609-523b-b999-a813-7de724058b75",
+          "platform_id": "galaxy_s26_512gb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_512gb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5067,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+              },
+              {
+                "primary": 8744,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 5486,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-titan-gray/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_512gb_titan_gray_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Titan Gray with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 7774,
+      "id": "633f4f38-73d5-d948-e811-faeb43843319",
+      "platform_id": "galaxy_s26_512gb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1149, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 512GB Emerald Green" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Emerald Green with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Emerald Green with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5342,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+          },
+          {
+            "primary": 5524,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 2055,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-emerald-green/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 149,
+          "id": "681e04fe-2960-0c12-c51e-20e2859bc394",
+          "platform_id": "galaxy_s26_512gb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_512gb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5342,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+              },
+              {
+                "primary": 5524,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 2055,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-emerald-green/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_512gb_emerald_green_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Emerald Green with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 938,
+      "id": "9d1fbb51-1f39-5dba-48bf-df387bdd4350",
+      "platform_id": "galaxy_s26_512gb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1149, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 512GB Aurora Violet" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6504,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+          },
+          {
+            "primary": 1145,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 4466,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-aurora-violet/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5927,
+          "id": "5d68b56e-82c4-d533-4201-9758e8019276",
+          "platform_id": "galaxy_s26_512gb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_512gb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6504,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+              },
+              {
+                "primary": 1145,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 4466,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-512gb-aurora-violet/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_512gb_aurora_violet_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Aurora Violet with 512GB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4054,
+      "id": "c08b85d5-1203-82ae-7f27-7e19066f79a5",
+      "platform_id": "galaxy_s26_1tb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1349, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 1TB Phantom Black" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Phantom Black with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Phantom Black with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5945,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+          },
+          {
+            "primary": 4730,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 1530,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-phantom-black/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7022,
+          "id": "a619003b-64dd-4c1a-084f-05b0d2837c3b",
+          "platform_id": "galaxy_s26_1tb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_1tb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5945,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+              },
+              {
+                "primary": 4730,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 1530,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-phantom-black/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_1tb_phantom_black_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Phantom Black with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4475,
+      "id": "91b18749-4926-cb8d-81a0-5b02eb51a974",
+      "platform_id": "galaxy_s26_1tb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1349, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 1TB Titan Gray" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Titan Gray with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Titan Gray with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6684,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+          },
+          {
+            "primary": 4611,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 5320,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-titan-gray/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8734,
+          "id": "41dc3998-014a-cab0-0f52-f8a2d06daf96",
+          "platform_id": "galaxy_s26_1tb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_1tb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6684,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+              },
+              {
+                "primary": 4611,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 5320,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-titan-gray/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_1tb_titan_gray_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Titan Gray with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9060,
+      "id": "72429f02-ac93-3c99-21f0-0c1cd23c637c",
+      "platform_id": "galaxy_s26_1tb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1349, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 1TB Emerald Green" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Emerald Green with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Emerald Green with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7015,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+          },
+          {
+            "primary": 1198,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 4655,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-emerald-green/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 603,
+          "id": "ceeb3a4c-5094-ca94-d79d-48b9ec1c66a4",
+          "platform_id": "galaxy_s26_1tb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_1tb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7015,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI/blob/main/samsung-black.jpeg"
+              },
+              {
+                "primary": 1198,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 4655,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-emerald-green/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_1tb_emerald_green_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Emerald Green with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3266,
+      "id": "ea25ef18-cc37-c2df-8353-c7a54c9d8a55",
+      "platform_id": "galaxy_s26_1tb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1349, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 1TB Aurora Violet" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 2471,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-aurora-violet.jpeg"
+          },
+          {
+            "primary": 7018,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 1557,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-aurora-violet/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4215,
+          "id": "832c213b-3627-7944-bbfd-7d618fd6ca93",
+          "platform_id": "galaxy_s26_1tb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_1tb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 2471,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-aurora-violet.jpeg"
+              },
+              {
+                "primary": 7018,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 1557,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-1tb-aurora-violet/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_1tb_aurora_violet_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Aurora Violet with 1TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1565,
+      "id": "be0c1f45-f699-ad76-c4de-b920436c708e",
+      "platform_id": "galaxy_s26_2tb_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1549, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 2TB Phantom Black" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Phantom Black with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Phantom Black with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1140,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-phantom-black.jpeg"
+          },
+          {
+            "primary": 7067,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 7913,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-phantom-black/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9406,
+          "id": "ef790e29-a2aa-c9db-fcfc-0b6c47b642f5",
+          "platform_id": "galaxy_s26_2tb_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_2tb_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1140,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-phantom-black.jpeg"
+              },
+              {
+                "primary": 7067,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 7913,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-phantom-black/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_2tb_phantom_black_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Phantom Black with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8868,
+      "id": "27b8dab5-9d9c-1fb2-37ae-5bbb9494a9ec",
+      "platform_id": "galaxy_s26_2tb_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1549, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 2TB Titan Gray" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Titan Gray with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Titan Gray with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9261,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-titan-gray.jpeg"
+          },
+          {
+            "primary": 9722,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 7271,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-titan-gray/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4909,
+          "id": "eb141956-b09a-7e96-91c8-f0f30e17cc1f",
+          "platform_id": "galaxy_s26_2tb_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_2tb_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9261,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-titan-gray.jpeg"
+              },
+              {
+                "primary": 9722,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 7271,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-titan-gray/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_2tb_titan_gray_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Titan Gray with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1839,
+      "id": "0d54f6e6-1799-6f49-2a32-f390e5132494",
+      "platform_id": "galaxy_s26_2tb_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1549, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 2TB Emerald Green" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Emerald Green with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Emerald Green with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 3732,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-emerald-green.jpeg"
+          },
+          {
+            "primary": 8485,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 6020,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-emerald-green/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3321,
+          "id": "5ed33e36-3ba5-d3d1-cb67-e38533ce8607",
+          "platform_id": "galaxy_s26_2tb_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_2tb_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 3732,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-emerald-green.jpeg"
+              },
+              {
+                "primary": 8485,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 6020,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-emerald-green/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_2tb_emerald_green_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Emerald Green with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2,
+      "id": "fcf1e6ac-6e6e-6153-ee22-e105113d64c0",
+      "platform_id": "galaxy_s26_2tb_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 1549, "currency": "USD" }],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy S26 2TB Aurora Violet" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy S26 in Aurora Violet with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9540,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-aurora-violet.jpeg"
+          },
+          {
+            "primary": 5675,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 9067,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-aurora-violet/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8825,
+          "id": "b3976dc1-b6fc-930d-951a-90d073bc8e17",
+          "platform_id": "galaxy_s26_2tb_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_s26_2tb_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9540,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-aurora-violet.jpeg"
+              },
+              {
+                "primary": 5675,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 9067,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/samsung-galaxy-s26-2tb-aurora-violet/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_s26_2tb_aurora_violet_offer" },
+          "description": {
+            "en_US": "Galaxy S26 in Aurora Violet with 2TB storage. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8060,
+      "id": "0134ba6a-87f5-ccce-b1b7-3331648f1d16",
+      "platform_id": "airpods_pro_white",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 249, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "AirPods Pro White" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "AirPods Pro in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "AirPods Pro in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 3712,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-white.jpeg"
+          },
+          {
+            "primary": 2663,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-white/360/spin.glb"
+          },
+          {
+            "primary": 6426,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-white/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8482,
+          "id": "9ce265f3-327a-343e-74c6-5c9f68a20ff6",
+          "platform_id": "airpods_pro_white_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "airpods_pro_white",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 3712,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-white.jpeg"
+              },
+              {
+                "primary": 2663,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-white/360/spin.glb"
+              },
+              {
+                "primary": 6426,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-white/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "airpods_pro_white_offer" },
+          "description": {
+            "en_US": "AirPods Pro in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4412,
+      "id": "c80d15e4-d129-2dfe-9cf3-b85b533ab858",
+      "platform_id": "airpods_pro_midnight",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 249, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "AirPods Pro Midnight" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "AirPods Pro in Midnight. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "AirPods Pro in Midnight. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1484,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-midnight.jpeg"
+          },
+          {
+            "primary": 2903,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-midnight/360/spin.glb"
+          },
+          {
+            "primary": 1414,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-midnight/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3164,
+          "id": "c9a9d5ef-e16a-5702-aeb0-bd1f2e69caa7",
+          "platform_id": "airpods_pro_midnight_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "airpods_pro_midnight",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1484,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-midnight.jpeg"
+              },
+              {
+                "primary": 2903,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-midnight/360/spin.glb"
+              },
+              {
+                "primary": 1414,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-airpods-pro-midnight/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "airpods_pro_midnight_offer" },
+          "description": {
+            "en_US": "AirPods Pro in Midnight. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4387,
+      "id": "370eb9db-aa22-82cb-dd53-f9b5d6f1aa60",
+      "platform_id": "magsafe_charger_white",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 39, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "MagSafe Charger White" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "MagSafe Charger in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "MagSafe Charger in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4259,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-magsafe-charger-white.jpeg"
+          },
+          {
+            "primary": 7334,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-magsafe-charger-white/360/spin.glb"
+          },
+          {
+            "primary": 2952,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-magsafe-charger-white/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3316,
+          "id": "5cb6d87b-22e3-3fa8-f55f-34c0420f331e",
+          "platform_id": "magsafe_charger_white_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "magsafe_charger_white",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4259,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-magsafe-charger-white.jpeg"
+              },
+              {
+                "primary": 7334,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-magsafe-charger-white/360/spin.glb"
+              },
+              {
+                "primary": 2952,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-magsafe-charger-white/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "magsafe_charger_white_offer" },
+          "description": {
+            "en_US": "MagSafe Charger in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 5016,
+      "id": "a09662e2-1650-eeb6-15cb-698fe4be03e8",
+      "platform_id": "iphone_silicone_case_cosmic_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 49, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "iPhone Silicone Case Cosmic Orange" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "iPhone Silicone Case in Cosmic Orange. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone Silicone Case in Cosmic Orange. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9744,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-cosmic-orange.jpeg"
+          },
+          {
+            "primary": 3370,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 9414,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-cosmic-orange/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7931,
+          "id": "8ce42007-a117-96ac-4cc8-6ae8e695ea9b",
+          "platform_id": "iphone_silicone_case_cosmic_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_silicone_case_cosmic_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9744,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-cosmic-orange.jpeg"
+              },
+              {
+                "primary": 3370,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 9414,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-cosmic-orange/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "iphone_silicone_case_cosmic_black_offer" },
+          "description": {
+            "en_US": "iPhone Silicone Case in Cosmic Orange. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9609,
+      "id": "b3fd8d25-8366-090e-e5b0-5f1d33b8c375",
+      "platform_id": "iphone_silicone_case_arctic_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 49, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "iPhone Silicone Case Arctic Silver" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "iPhone Silicone Case in Arctic Silver. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone Silicone Case in Arctic Silver. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7662,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-silver.jpeg"
+          },
+          {
+            "primary": 7887,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-silver/360/spin.glb"
+          },
+          {
+            "primary": 6440,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-silver/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4070,
+          "id": "f4356a79-45bf-5011-4c67-fb363dd9cd41",
+          "platform_id": "iphone_silicone_case_arctic_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_silicone_case_arctic_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7662,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-silver.jpeg"
+              },
+              {
+                "primary": 7887,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-silver/360/spin.glb"
+              },
+              {
+                "primary": 6440,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-silver/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "iphone_silicone_case_arctic_silver_offer" },
+          "description": {
+            "en_US": "iPhone Silicone Case in Arctic Silver. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3169,
+      "id": "8ae8525e-a313-e215-66c5-d7de9a811209",
+      "platform_id": "iphone_silicone_case_midnight_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 49, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "iPhone Silicone Case Midnight Blue" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "iPhone Silicone Case in Midnight Blue. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone Silicone Case in Midnight Blue. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7343,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-deep-blue.jpeg"
+          },
+          {
+            "primary": 5865,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 3727,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-deep-blue/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5559,
+          "id": "047695fe-c63f-545f-4455-517d39019939",
+          "platform_id": "iphone_silicone_case_midnight_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_silicone_case_midnight_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7343,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-deep-blue.jpeg"
+              },
+              {
+                "primary": 5865,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 3727,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-deep-blue/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "iphone_silicone_case_midnight_blue_offer" },
+          "description": {
+            "en_US": "iPhone Silicone Case in Midnight Blue. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 5860,
+      "id": "f9b3516c-dd16-3acb-e233-4608ad5a2f3f",
+      "platform_id": "iphone_silicone_case_rose_gold",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 59, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "iPhone Silicone Case Rose Gold" },
+      "subtitle": { "en_US": "Apple" },
+      "description": {
+        "en_US": "iPhone Silicone Case in Rose Gold. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone Silicone Case in Rose Gold. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4196,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-rose-gold.jpeg"
+          },
+          {
+            "primary": 6584,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-rose-gold/360/spin.glb"
+          },
+          {
+            "primary": 9651,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-rose-gold/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4826,
+          "id": "8702d9ce-6646-8ff5-5f04-4e70770627ca",
+          "platform_id": "iphone_silicone_case_rose_gold_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_silicone_case_rose_gold",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4196,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-rose-gold.jpeg"
+              },
+              {
+                "primary": 6584,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-rose-gold/360/spin.glb"
+              },
+              {
+                "primary": 9651,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/apple-iphone-silicone-case-rose-gold/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "iphone_silicone_case_rose_gold_offer" },
+          "description": {
+            "en_US": "iPhone Silicone Case in Rose Gold. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3579,
+      "id": "9203aa02-43e2-7da7-9e37-b5b209f244f0",
+      "platform_id": "galaxy_buds4_graphite",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 229, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Buds4 Graphite" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Buds4 in Graphite. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Buds4 in Graphite. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7630,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-graphite.jpeg"
+          },
+          {
+            "primary": 5494,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-graphite/360/spin.glb"
+          },
+          {
+            "primary": 3640,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-graphite/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9320,
+          "id": "29bdbc3a-3c8d-caaf-581a-238b682cc6c8",
+          "platform_id": "galaxy_buds4_graphite_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_buds4_graphite",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7630,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-graphite.jpeg"
+              },
+              {
+                "primary": 5494,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-graphite/360/spin.glb"
+              },
+              {
+                "primary": 3640,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-graphite/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_buds4_graphite_offer" },
+          "description": {
+            "en_US": "Galaxy Buds4 in Graphite. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4040,
+      "id": "aeccb12b-f217-298c-316a-60d32c525315",
+      "platform_id": "galaxy_buds4_white",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 229, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Buds4 White" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Buds4 in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Buds4 in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6344,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-white.jpeg"
+          },
+          {
+            "primary": 8897,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-white/360/spin.glb"
+          },
+          {
+            "primary": 1821,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-white/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3526,
+          "id": "decfafc3-1f7a-1e7e-1892-a2e4dc0ec792",
+          "platform_id": "galaxy_buds4_white_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_buds4_white",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6344,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-white.jpeg"
+              },
+              {
+                "primary": 8897,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-white/360/spin.glb"
+              },
+              {
+                "primary": 1821,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-white/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_buds4_white_offer" },
+          "description": {
+            "en_US": "Galaxy Buds4 in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1005,
+      "id": "82d2a87d-f559-7c96-20b2-3bd83ec34f73",
+      "platform_id": "galaxy_buds4_lavender",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 229, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Buds4 Lavender" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Buds4 in Lavender. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Buds4 in Lavender. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9453,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-lavender.jpeg"
+          },
+          {
+            "primary": 7918,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-lavender/360/spin.glb"
+          },
+          {
+            "primary": 6146,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-lavender/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 2361,
+          "id": "f0363c47-05be-7195-4025-3d315895942f",
+          "platform_id": "galaxy_buds4_lavender_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_buds4_lavender",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9453,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-lavender.jpeg"
+              },
+              {
+                "primary": 7918,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-lavender/360/spin.glb"
+              },
+              {
+                "primary": 6146,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-buds4-lavender/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_buds4_lavender_offer" },
+          "description": {
+            "en_US": "Galaxy Buds4 in Lavender. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9473,
+      "id": "eb6de924-17ac-6dfd-a152-8d08b4db0b91",
+      "platform_id": "super_fast_charger_45w_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 49, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Super Fast Charger 45W Black" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Super Fast Charger 45W in Black. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Super Fast Charger 45W in Black. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4577,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-black.jpeg"
+          },
+          {
+            "primary": 6647,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-black/360/spin.glb"
+          },
+          {
+            "primary": 7807,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-black/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4191,
+          "id": "d64bfbb2-6baa-eab0-142f-df2752efb6ab",
+          "platform_id": "super_fast_charger_45w_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "super_fast_charger_45w_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4577,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-black.jpeg"
+              },
+              {
+                "primary": 6647,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-black/360/spin.glb"
+              },
+              {
+                "primary": 7807,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-black/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "super_fast_charger_45w_black_offer" },
+          "description": {
+            "en_US": "Super Fast Charger 45W in Black. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3493,
+      "id": "79d86889-b418-d9ff-2574-e8ed527efc04",
+      "platform_id": "super_fast_charger_45w_white",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 49, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Super Fast Charger 45W White" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Super Fast Charger 45W in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Super Fast Charger 45W in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6742,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-white.jpeg"
+          },
+          {
+            "primary": 7085,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-white/360/spin.glb"
+          },
+          {
+            "primary": 4908,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-white/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7069,
+          "id": "d0205131-2b35-f31e-0e35-068808daffca",
+          "platform_id": "super_fast_charger_45w_white_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "super_fast_charger_45w_white",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6742,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-white.jpeg"
+              },
+              {
+                "primary": 7085,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-white/360/spin.glb"
+              },
+              {
+                "primary": 4908,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-super-fast-charger-45w-white/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "super_fast_charger_45w_white_offer" },
+          "description": {
+            "en_US": "Super Fast Charger 45W in White. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9418,
+      "id": "cc2d9e2d-86fc-2f4c-5768-c97410f199da",
+      "platform_id": "galaxy_silicone_case_phantom_black",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 39, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Silicone Case Phantom Black" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Silicone Case in Phantom Black. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Silicone Case in Phantom Black. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7904,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-phantom-black.jpeg"
+          },
+          {
+            "primary": 1873,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-phantom-black/360/spin.glb"
+          },
+          {
+            "primary": 1961,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-phantom-black/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 6776,
+          "id": "e6d86100-9436-9dfe-2b58-956db33cdb3d",
+          "platform_id": "galaxy_silicone_case_phantom_black_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_silicone_case_phantom_black",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7904,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-phantom-black.jpeg"
+              },
+              {
+                "primary": 1873,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-phantom-black/360/spin.glb"
+              },
+              {
+                "primary": 1961,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-phantom-black/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_silicone_case_phantom_black_offer" },
+          "description": {
+            "en_US": "Galaxy Silicone Case in Phantom Black. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 545,
+      "id": "828d5efd-7dc2-d453-6f4b-7a4c06940457",
+      "platform_id": "galaxy_silicone_case_titan_gray",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 39, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Silicone Case Titan Gray" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Silicone Case in Titan Gray. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Silicone Case in Titan Gray. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7046,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-titan-gray.jpeg"
+          },
+          {
+            "primary": 6813,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-titan-gray/360/spin.glb"
+          },
+          {
+            "primary": 5567,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-titan-gray/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 2853,
+          "id": "ea1286bb-e90d-46ad-eebf-dfd5062138ca",
+          "platform_id": "galaxy_silicone_case_titan_gray_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_silicone_case_titan_gray",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7046,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-titan-gray.jpeg"
+              },
+              {
+                "primary": 6813,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-titan-gray/360/spin.glb"
+              },
+              {
+                "primary": 5567,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-titan-gray/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_silicone_case_titan_gray_offer" },
+          "description": {
+            "en_US": "Galaxy Silicone Case in Titan Gray. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1295,
+      "id": "c2bc4455-80ef-2155-a192-c4542bec2b43",
+      "platform_id": "galaxy_silicone_case_emerald_green",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 39, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Silicone Case Emerald Green" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Silicone Case in Emerald Green. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Silicone Case in Emerald Green. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6317,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-emerald-green.jpeg"
+          },
+          {
+            "primary": 4690,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-emerald-green/360/spin.glb"
+          },
+          {
+            "primary": 3186,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-emerald-green/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1015,
+          "id": "9b3a2b3a-c8d7-d906-78cd-25016defb53f",
+          "platform_id": "galaxy_silicone_case_emerald_green_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_silicone_case_emerald_green",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6317,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-emerald-green.jpeg"
+              },
+              {
+                "primary": 4690,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-emerald-green/360/spin.glb"
+              },
+              {
+                "primary": 3186,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-emerald-green/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_silicone_case_emerald_green_offer" },
+          "description": {
+            "en_US": "Galaxy Silicone Case in Emerald Green. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1206,
+      "id": "a0124a74-058d-a703-0664-11df3a074552",
+      "platform_id": "galaxy_silicone_case_aurora_violet",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [{ "amount": 49, "currency": "USD" }],
+      "business_type": "Accessory",
+      "product_type": "accessory",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": { "en_US": "Galaxy Silicone Case Aurora Violet" },
+      "subtitle": { "en_US": "Samsung" },
+      "description": {
+        "en_US": "Galaxy Silicone Case in Aurora Violet. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "Galaxy Silicone Case in Aurora Violet. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": { "en_US": "" },
+      "service_access_url": { "en_US": "" },
+      "terms_conditions_url": { "en_US": "" },
+      "business_rules": { "en_US": false },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": { "target_url": "", "text": "" },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": { "target_url": "", "text": "" },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": { "purchase": true, "cancellation": false },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5063,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-aurora-violet.jpeg"
+          },
+          {
+            "primary": 1858,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-aurora-violet/360/spin.glb"
+          },
+          {
+            "primary": 6376,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-aurora-violet/360/frames/{frame}.jpeg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 117,
+          "id": "248be95f-961a-676a-e324-1c7ae89a4f77",
+          "platform_id": "galaxy_silicone_case_aurora_violet_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "galaxy_silicone_case_aurora_violet",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5063,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-aurora-violet.jpeg"
+              },
+              {
+                "primary": 1858,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-aurora-violet/360/spin.glb"
+              },
+              {
+                "primary": 6376,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/catalog/accessory/samsung-galaxy-silicone-case-aurora-violet/360/frames/{frame}.jpeg"
+              }
+            ]
+          },
+          "title": { "en_US": "galaxy_silicone_case_aurora_violet_offer" },
+          "description": {
+            "en_US": "Galaxy Silicone Case in Aurora Violet. Includes 360\u00b0 product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": { "en_US": "" },
+          "service_access_url": { "en_US": "" },
+          "terms_conditions_url": { "en_US": "" },
+          "cta_emi": { "en_US": null },
+          "status": { "en_US": "" },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    }
+  ]
+}

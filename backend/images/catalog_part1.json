@@ -1,0 +1,3929 @@
+{
+  "build": {
+    "version": "3.1.25.11-rc4",
+    "start": "2026-03-25 17:12:37.832",
+    "end": "2026-03-25 17:12:37.832",
+    "duration": "0s",
+    "mode": "Release"
+  },
+  "page": {
+    "current": 1,
+    "total": 1,
+    "items_count": 96,
+    "total_items_count": 96
+  },
+  "resources": [
+    {
+      "metatype": "Product",
+      "primary": 5991,
+      "id": "b48438b5-c41f-9dfd-2cb8-5f3f4a24e39a",
+      "platform_id": "iphone_17_pro_256gb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 256GB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9552,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/iphone17pro.jpg"
+          },
+          {
+            "primary": 7785,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 5971,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8851,
+          "id": "eae0d2c1-1c33-9464-473d-212ba950666d",
+          "platform_id": "iphone_17_pro_256gb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_256gb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9552,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/iphone17pro.jpg"
+              },
+              {
+                "primary": 7785,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 5971,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_256gb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6875,
+      "id": "cd68615c-8069-0847-dc15-9e6a409c38f2",
+      "platform_id": "iphone_17_pro_256gb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 256GB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1441,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-deep-blue/hero.png"
+          },
+          {
+            "primary": 5078,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 7294,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5201,
+          "id": "f1f83a79-af37-1d87-d8a8-f065a3f96f0e",
+          "platform_id": "iphone_17_pro_256gb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_256gb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1441,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-deep-blue/hero.png"
+              },
+              {
+                "primary": 5078,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 7294,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_256gb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2292,
+      "id": "32521553-e014-be00-caa7-e9bfd00724a1",
+      "platform_id": "iphone_17_pro_256gb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1299,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 256GB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7579,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-silver/hero.png"
+          },
+          {
+            "primary": 3253,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-silver/360/spin.glb"
+          },
+          {
+            "primary": 2018,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 2473,
+          "id": "8f138999-8869-510d-b4a0-2517e1ff83ab",
+          "platform_id": "iphone_17_pro_256gb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_256gb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7579,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-silver/hero.png"
+              },
+              {
+                "primary": 3253,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-silver/360/spin.glb"
+              },
+              {
+                "primary": 2018,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-256gb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_256gb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8292,
+      "id": "6ecace3c-0490-ca26-561d-2417eb837ba8",
+      "platform_id": "iphone_17_pro_512gb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 512GB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8767,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 3320,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 7695,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 6099,
+          "id": "c0855ac9-e599-e358-0d3a-2dc6925b1ec9",
+          "platform_id": "iphone_17_pro_512gb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_512gb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8767,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 3320,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 7695,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_512gb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6142,
+      "id": "de27660b-0152-0627-c63d-6f69947feaa3",
+      "platform_id": "iphone_17_pro_512gb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 512GB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 6810,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-deep-blue/hero.png"
+          },
+          {
+            "primary": 1824,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 8819,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 6644,
+          "id": "36be6e68-8e8b-88c2-1df9-95313d2b9a36",
+          "platform_id": "iphone_17_pro_512gb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_512gb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 6810,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-deep-blue/hero.png"
+              },
+              {
+                "primary": 1824,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 8819,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_512gb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 953,
+      "id": "468629e8-c956-13ef-1071-e6da44673e23",
+      "platform_id": "iphone_17_pro_512gb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1449,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 512GB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5072,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-silver/hero.png"
+          },
+          {
+            "primary": 9633,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-silver/360/spin.glb"
+          },
+          {
+            "primary": 6893,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3158,
+          "id": "8e384a7b-d422-051f-9a98-f4d0bf5da6cc",
+          "platform_id": "iphone_17_pro_512gb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_512gb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5072,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-silver/hero.png"
+              },
+              {
+                "primary": 9633,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-silver/360/spin.glb"
+              },
+              {
+                "primary": 6893,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-512gb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_512gb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 830,
+      "id": "04eb4870-5916-ca58-fd93-99c0c0d64421",
+      "platform_id": "iphone_17_pro_1tb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 1TB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5465,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 6490,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 1159,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7654,
+          "id": "a212f8fc-794b-aead-45c2-c169bea12ba5",
+          "platform_id": "iphone_17_pro_1tb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_1tb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5465,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 6490,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 1159,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_1tb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4229,
+      "id": "b71e77b2-fc9e-4dc6-bf89-b6551335276b",
+      "platform_id": "iphone_17_pro_1tb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 1TB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 1884,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-deep-blue/hero.png"
+          },
+          {
+            "primary": 4248,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 6075,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 7945,
+          "id": "8676b326-906e-6a67-9efd-9ce2054a108a",
+          "platform_id": "iphone_17_pro_1tb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_1tb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 1884,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-deep-blue/hero.png"
+              },
+              {
+                "primary": 4248,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 6075,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_1tb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9669,
+      "id": "3215ff4f-2eeb-dd04-643e-2ec8d1032239",
+      "platform_id": "iphone_17_pro_1tb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1649,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 1TB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 3267,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-silver/hero.png"
+          },
+          {
+            "primary": 7602,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-silver/360/spin.glb"
+          },
+          {
+            "primary": 8944,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4120,
+          "id": "1c43af35-ad22-a5cd-269a-ed1df5fd749b",
+          "platform_id": "iphone_17_pro_1tb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_1tb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 3267,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-silver/hero.png"
+              },
+              {
+                "primary": 7602,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-silver/360/spin.glb"
+              },
+              {
+                "primary": 8944,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-1tb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_1tb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 6614,
+      "id": "15cc9e1d-8ac9-b762-1334-518f7af1f5a6",
+      "platform_id": "iphone_17_pro_2tb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 2TB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 2520,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 6109,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 5104,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8898,
+          "id": "39956861-3de0-5552-fab3-520fa2f1d748",
+          "platform_id": "iphone_17_pro_2tb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_2tb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 2520,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 6109,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 5104,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_2tb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4838,
+      "id": "7c9fd32c-e340-5e87-b990-dea60c996e73",
+      "platform_id": "iphone_17_pro_2tb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 2TB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9720,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-deep-blue/hero.png"
+          },
+          {
+            "primary": 5345,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 3677,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9608,
+          "id": "38f40afe-7c8a-1d56-d30f-0290648c8fa9",
+          "platform_id": "iphone_17_pro_2tb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_2tb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9720,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-deep-blue/hero.png"
+              },
+              {
+                "primary": 5345,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 3677,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_2tb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1269,
+      "id": "37f83844-c071-8532-7598-5078f7a69756",
+      "platform_id": "iphone_17_pro_2tb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1849,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Pro 2TB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Pro in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Pro in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7682,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-silver/hero.png"
+          },
+          {
+            "primary": 9448,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-silver/360/spin.glb"
+          },
+          {
+            "primary": 8291,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3753,
+          "id": "3055291b-d1d2-a80d-5178-7cb17ba21704",
+          "platform_id": "iphone_17_pro_2tb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_pro_2tb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7682,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-silver/hero.png"
+              },
+              {
+                "primary": 9448,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-silver/360/spin.glb"
+              },
+              {
+                "primary": 8291,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-pro-2tb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_pro_2tb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Pro in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2821,
+      "id": "36083a3e-c139-6b97-f8f8-b021ff8353f9",
+      "platform_id": "iphone_17_max_256gb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1399,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 256GB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 4786,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 6135,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 7028,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4971,
+          "id": "976d21c1-72f5-6945-5b03-140c6f0e9e6a",
+          "platform_id": "iphone_17_max_256gb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_256gb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 4786,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 6135,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 7028,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_256gb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Cosmic Orange with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8574,
+      "id": "93614239-f134-7133-312c-c39d02b09ec5",
+      "platform_id": "iphone_17_max_256gb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1399,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 256GB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 2530,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-deep-blue/hero.png"
+          },
+          {
+            "primary": 9497,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 2728,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 9069,
+          "id": "76b0de6f-730a-9469-2dc2-aa9fc3d67ad6",
+          "platform_id": "iphone_17_max_256gb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_256gb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 2530,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-deep-blue/hero.png"
+              },
+              {
+                "primary": 9497,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 2728,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_256gb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Deep Blue with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 8786,
+      "id": "0318fcff-73eb-0ab4-7994-c5ba8ca3b38a",
+      "platform_id": "iphone_17_max_256gb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1399,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 256GB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8300,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-silver/hero.png"
+          },
+          {
+            "primary": 9261,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-silver/360/spin.glb"
+          },
+          {
+            "primary": 3247,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4821,
+          "id": "02188571-fce0-ee7b-2f1d-8f88436ff95f",
+          "platform_id": "iphone_17_max_256gb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_256gb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8300,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-silver/hero.png"
+              },
+              {
+                "primary": 9261,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-silver/360/spin.glb"
+              },
+              {
+                "primary": 3247,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-256gb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_256gb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Silver with 256GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 429,
+      "id": "c2602600-d23e-7c4f-895d-aa8f74928ae4",
+      "platform_id": "iphone_17_max_512gb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1549,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 512GB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5938,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 4343,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 2616,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3639,
+          "id": "d9baa3fe-07a9-9078-a638-acdcde09e0f9",
+          "platform_id": "iphone_17_max_512gb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_512gb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5938,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 4343,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 2616,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_512gb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Cosmic Orange with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 956,
+      "id": "302600ff-0f50-5479-8a07-2ef6bd03a1c0",
+      "platform_id": "iphone_17_max_512gb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1549,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 512GB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 7553,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-deep-blue/hero.png"
+          },
+          {
+            "primary": 3010,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 8014,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 8827,
+          "id": "58e98fca-5b5d-a72d-44f9-b14343289d78",
+          "platform_id": "iphone_17_max_512gb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_512gb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 7553,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-deep-blue/hero.png"
+              },
+              {
+                "primary": 3010,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 8014,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_512gb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Deep Blue with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 123,
+      "id": "56d9da9d-fea0-2891-c00a-6ca88697d302",
+      "platform_id": "iphone_17_max_512gb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1549,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 512GB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9908,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-silver/hero.png"
+          },
+          {
+            "primary": 7826,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-silver/360/spin.glb"
+          },
+          {
+            "primary": 7644,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1326,
+          "id": "cb448666-d4a0-7620-bfdf-1a09c1f3e4ba",
+          "platform_id": "iphone_17_max_512gb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_512gb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9908,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-silver/hero.png"
+              },
+              {
+                "primary": 7826,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-silver/360/spin.glb"
+              },
+              {
+                "primary": 7644,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-512gb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_512gb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Silver with 512GB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4096,
+      "id": "4f7e0dfe-6ba4-ea41-ae51-ffaf12de5647",
+      "platform_id": "iphone_17_max_1tb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1749,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 1TB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8250,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 3042,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 5177,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 3282,
+          "id": "36b06a89-20d1-a032-5d96-30227b9a2e71",
+          "platform_id": "iphone_17_max_1tb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_1tb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8250,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 3042,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 5177,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_1tb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Cosmic Orange with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 1364,
+      "id": "e5bfce2d-872f-eec5-7001-bd396f96b697",
+      "platform_id": "iphone_17_max_1tb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1749,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 1TB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 9271,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-deep-blue/hero.png"
+          },
+          {
+            "primary": 3484,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 5813,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 6365,
+          "id": "c297ce1b-9abb-6ced-85f8-8b24c7f0b37b",
+          "platform_id": "iphone_17_max_1tb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_1tb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 9271,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-deep-blue/hero.png"
+              },
+              {
+                "primary": 3484,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 5813,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_1tb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Deep Blue with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 9609,
+      "id": "7e40bf21-512d-7142-ef91-74f488e81a30",
+      "platform_id": "iphone_17_max_1tb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1749,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 1TB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 3525,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-silver/hero.png"
+          },
+          {
+            "primary": 3337,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-silver/360/spin.glb"
+          },
+          {
+            "primary": 3694,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 4614,
+          "id": "10db8006-683a-8bb7-eedf-b0d6f4e9c81d",
+          "platform_id": "iphone_17_max_1tb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_1tb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 3525,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-silver/hero.png"
+              },
+              {
+                "primary": 3337,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-silver/360/spin.glb"
+              },
+              {
+                "primary": 3694,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-1tb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_1tb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Silver with 1TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 4107,
+      "id": "01cb9d37-5f59-6e42-30e6-aed7809b8a12",
+      "platform_id": "iphone_17_max_2tb_cosmic_orange",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1949,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 2TB Cosmic Orange"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 5729,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-cosmic-orange/hero.png"
+          },
+          {
+            "primary": 4974,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-cosmic-orange/360/spin.glb"
+          },
+          {
+            "primary": 9121,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-cosmic-orange/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 2006,
+          "id": "6e382ffc-13ac-fa04-7e22-778455c2941d",
+          "platform_id": "iphone_17_max_2tb_cosmic_orange_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_2tb_cosmic_orange",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 5729,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-cosmic-orange/hero.png"
+              },
+              {
+                "primary": 4974,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-cosmic-orange/360/spin.glb"
+              },
+              {
+                "primary": 9121,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-cosmic-orange/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_2tb_cosmic_orange_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Cosmic Orange with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 3995,
+      "id": "4bf318d5-ee4c-f373-1211-ea492b9af981",
+      "platform_id": "iphone_17_max_2tb_deep_blue",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1949,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 2TB Deep Blue"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 2418,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-deep-blue/hero.png"
+          },
+          {
+            "primary": 9441,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-deep-blue/360/spin.glb"
+          },
+          {
+            "primary": 7196,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-deep-blue/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 1194,
+          "id": "c37c55ea-e82d-7525-56fb-309d49da2d08",
+          "platform_id": "iphone_17_max_2tb_deep_blue_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_2tb_deep_blue",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 2418,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-deep-blue/hero.png"
+              },
+              {
+                "primary": 9441,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-deep-blue/360/spin.glb"
+              },
+              {
+                "primary": 7196,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-deep-blue/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_2tb_deep_blue_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Deep Blue with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    },
+    {
+      "metatype": "Product",
+      "primary": 2450,
+      "id": "6227ac46-4eed-2e5b-441b-59c9be55cce0",
+      "platform_id": "iphone_17_max_2tb_silver",
+      "dataset": "marketone",
+      "device": 2,
+      "status": [
+        {
+          "amount": 1949,
+          "currency": "USD"
+        }
+      ],
+      "business_type": "Device",
+      "product_type": "device",
+      "product_status": "activated",
+      "compositions": [],
+      "displayable": true,
+      "integration_type": null,
+      "is_soft_bundle": false,
+      "title": {
+        "en_US": "iPhone 17 Max 2TB Silver"
+      },
+      "subtitle": {
+        "en_US": "Apple"
+      },
+      "description": {
+        "en_US": "iPhone 17 Max in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "short_description": {
+        "en_US": "iPhone 17 Max in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+      },
+      "more_info_url": {
+        "en_US": ""
+      },
+      "service_access_url": {
+        "en_US": ""
+      },
+      "terms_conditions_url": {
+        "en_US": ""
+      },
+      "business_rules": {
+        "en_US": false
+      },
+      "cta_emi": {
+        "en_US": {
+          "checkout_term": {
+            "target_url": "",
+            "text": ""
+          },
+          "cta_add_to_cart": "Add to cart",
+          "more_info": {
+            "page_target": null,
+            "text": "More info",
+            "type": "url",
+            "url_target": ""
+          },
+          "redirect_btn": {
+            "target_url": "",
+            "text": ""
+          },
+          "subscription_btn": {
+            "activate": false,
+            "cancel": false,
+            "change_plan": false,
+            "pause": false,
+            "reinstate_sub": false,
+            "resume": false
+          }
+        }
+      },
+      "rights": {
+        "purchase": true,
+        "cancellation": false
+      },
+      "trial_group": null,
+      "locale": "en_US",
+      "billings": [],
+      "promotions": [],
+      "pictures": {
+        "en_US": [
+          {
+            "primary": 8578,
+            "type": 4,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-silver/hero.png"
+          },
+          {
+            "primary": 6264,
+            "type": 7,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-silver/360/spin.glb"
+          },
+          {
+            "primary": 3433,
+            "type": 8,
+            "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-silver/360/frames/{frame}.jpg"
+          }
+        ]
+      },
+      "genres": {},
+      "titles": [],
+      "channels": [],
+      "children": [],
+      "product_groups": [],
+      "offers": [
+        {
+          "metatype": "ProductOffer",
+          "primary": 5334,
+          "id": "a1dd8f09-8395-2a5d-9325-b34febf91b63",
+          "platform_id": "iphone_17_max_2tb_silver_offer",
+          "dataset": "marketone",
+          "device": 2,
+          "customized": false,
+          "ProductPlatformId": "iphone_17_max_2tb_silver",
+          "CampaignPlatformId": "",
+          "BillingPlatformId": "",
+          "deprecated": false,
+          "overloaded": false,
+          "pictures": {
+            "en_US": [
+              {
+                "primary": 8578,
+                "type": 4,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-silver/hero.png"
+              },
+              {
+                "primary": 6264,
+                "type": 7,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-silver/360/spin.glb"
+              },
+              {
+                "primary": 3433,
+                "type": 8,
+                "url": "https://cdn.jsdelivr.net/gh/ashishkumarrathore/RFI@main/apple-iphone-17-max-2tb-silver/360/frames/{frame}.jpg"
+              }
+            ]
+          },
+          "title": {
+            "en_US": "iphone_17_max_2tb_silver_offer"
+          },
+          "description": {
+            "en_US": "iPhone 17 Max in Silver with 2TB storage. Includes 360° product view assets. Mock catalog entry for API testing."
+          },
+          "more_info_url": {
+            "en_US": ""
+          },
+          "service_access_url": {
+            "en_US": ""
+          },
+          "terms_conditions_url": {
+            "en_US": ""
+          },
+          "cta_emi": {
+            "en_US": null
+          },
+          "status": {
+            "en_US": ""
+          },
+          "locale": "en_US"
+        }
+      ],
+      "bill_on_activation": false,
+      "overloaded": false
+    }
+  ]
+}

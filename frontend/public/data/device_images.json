@@ -1,0 +1,66 @@
+[
+  {
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "price": 699,
+    "colors": ["Black", "Blue", "Green", "Yellow", "Pink"],
+    "specs": { "chip": "A16 Bionic", "display": "6.1-inch Super Retina XDR", "camera": "48MP Main" },
+    "image_url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=800"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "price": 999,
+    "colors": ["Black Titanium", "White Titanium", "Blue Titanium", "Natural Titanium"],
+    "specs": { "chip": "A17 Pro", "display": "6.1-inch ProMotion", "frame": "Titanium" },
+    "image_url": "https://images.unsplash.com/photo-1696446701796-da61225697cc?q=80&w=800"
+  },
+  {
+    "name": "iPhone 16",
+    "brand": "Apple",
+    "price": 799,
+    "colors": ["Black", "White", "Pink", "Blue", "Green"],
+    "specs": { "chip": "A18", "display": "6.1-inch OLED", "feature": "Action Button" },
+    "image_url": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?q=80&w=800"
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "price": 1099,
+    "colors": ["Desert Titanium", "Natural Titanium", "White Titanium", "Black Titanium"],
+    "specs": { "chip": "A18 Pro", "display": "6.3-inch OLED", "camera": "5x Telephoto" },
+    "image_url": "https://images.unsplash.com/photo-1727281980830-226f9509656b?q=80&w=800"
+  },
+  {
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "price": 1299,
+    "colors": ["Silver", "Deep Blue", "Desert Titanium", "Black Titanium"],
+    "specs": { "chip": "A19 Pro", "display": "6.9-inch OLED", "ram": "12GB" },
+    "image_url": "https://images.unsplash.com/photo-1673332061413-df818cc63493?q=80&w=800"
+  },
+  {
+    "name": "Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price": 1299,
+    "colors": ["Titanium Black", "Titanium Gray", "Titanium Violet", "Titanium Yellow"],
+    "specs": { "chip": "Snapdragon 8 Gen 3", "display": "6.8-inch QHD+", "stylus": "S-Pen" },
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?q=80&w=800"
+  },
+  {
+    "name": "Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "price": 1299,
+    "colors": ["Titanium Black", "Titanium Silver", "Titanium Blue", "Titanium Green"],
+    "specs": { "chip": "Snapdragon 8 Gen 4", "display": "6.9-inch", "ai": "Galaxy AI 2.0" },
+    "image_url": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=800"
+  },
+  {
+    "name": "Galaxy S26 Ultra",
+    "brand": "Samsung",
+    "price": 1349,
+    "colors": ["Titanium Black", "Titanium Gray", "Titanium Bronze", "Titanium Green"],
+    "specs": { "chip": "Snapdragon 8 Elite", "display": "6.9-inch Privacy AMOLED" },
+    "image_url": "https://images.unsplash.com/photo-1583573636246-18cb2246697f?q=80&w=800"
+  }
+]

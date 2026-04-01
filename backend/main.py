@@ -618,6 +618,7 @@ class LoginResponse(BaseModel):
     user: Dict[str, Any]; token: str
 
 @app.post('/login', response_model=LoginResponse)
+@app.post('/api/login', response_model=LoginResponse)
 def login(req: LoginRequest):
     # Use central store implementation so tokens and user shape match /api endpoints
     existing = find_user_by_username(req.username)

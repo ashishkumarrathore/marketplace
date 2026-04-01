@@ -360,9 +360,11 @@ def get_wallet(user: dict = Depends(require_auth)):
     }
 
 @app.get("/wallet/cards")
+@app.get("/api/wallet/cards")
 def get_cards(): return {"cards": SAVED_CARDS}
 
 @app.post("/wallet/cards")
+@app.post("/api/wallet/cards")
 def add_card(req: AddCardRequest):
     num = req.number.replace(" ", "").replace("-", "")
     if len(num) < 13: raise HTTPException(400, "Invalid card number")

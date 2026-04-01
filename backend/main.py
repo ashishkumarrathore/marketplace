@@ -197,6 +197,7 @@ def read_index():
     raise HTTPException(404, 'UI not built; index.html not found')
 
 @app.get("/health")
+@app.get("/api/health")
 def health():
     return {"status": "ok", "products_loaded": len(ALL_PRODUCTS)}
 

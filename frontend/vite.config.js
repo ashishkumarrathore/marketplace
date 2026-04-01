@@ -7,7 +7,7 @@ export default defineConfig({
     port: 5173,
     proxy: {
       "/api": {
-        target: "http://localhost:8000",
+        target: "http://localhost:8000", // ✅ still works for local dev
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""),
       },
@@ -15,5 +15,6 @@ export default defineConfig({
   },
   build: {
     target: "esnext",
+    outDir: "dist", // ✅ explicitly set for Vercel
   },
 });

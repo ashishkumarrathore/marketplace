@@ -254,6 +254,7 @@ def get_products(q: Optional[str]=None, type: Optional[str]=None, brand: Optiona
     }
 
 @app.get("/products")
+@app.get("/api/products")
 def get_products_legacy(q: Optional[str]=None, type: Optional[str]=None, brand: Optional[str]=None,
                 min_price: Optional[float]=None, max_price: Optional[float]=None,
                 page: int=1, page_size: int=24, product_groups: Optional[str]=None):
@@ -320,6 +321,7 @@ async def require_auth(request: Request):
     return user
 
 @app.get("/wallet")
+@app.get("/api/wallet")
 def get_wallet(user: dict = Depends(require_auth)):
     """Get authenticated user's wallet balance and transaction history"""
     # User has 'walletBalance' as a simple field, not nested 'wallet.balance'
@@ -375,6 +377,7 @@ def add_card(req: AddCardRequest):
     return {"card": card, "message": "Card added successfully"}
 
 @app.get("/orders")
+@app.get("/api/orders")
 def get_orders(user: dict = Depends(require_auth)):
     """Get authenticated user's orders from their account"""
     # Get orders from user's first account
@@ -389,6 +392,7 @@ def get_orders(user: dict = Depends(require_auth)):
     return {"orders": sorted(rows, key=lambda x: x["date"], reverse=True)}
 
 @app.get("/orders/{order_id}")
+@app.get("/api/orders/{order_id}")
 def get_order(order_id: str, user: dict = Depends(require_auth)):
     """Get a specific order for authenticated user"""
     # Search for order in user's account
@@ -403,6 +407,7 @@ def get_order(order_id: str, user: dict = Depends(require_auth)):
     return {**order, "card_last4": "••••" + order.get("card_last4", "")}
 
 @app.post("/checkout")
+@app.post("/api/checkout")
 def checkout(req: CheckoutRequest, user: dict = Depends(require_auth)):
     # determine card used
     if req.card_id:

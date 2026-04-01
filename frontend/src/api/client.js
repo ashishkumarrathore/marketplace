@@ -3,10 +3,24 @@
  * Axios-based API client wired to FastAPI backend via /api proxy.
  * All endpoints map 1:1 to FastAPI routes.
  */
+// import axios from "axios";
+
+// const http = axios.create({
+//   baseURL: "/api",
+//   timeout: 15_000,
+//   headers: { "Content-Type": "application/json" },
+// });
+
+/**
+ * api/client.js
+ * Axios-based API client wired to FastAPI backend via /api proxy.
+ * All endpoints map 1:1 to FastAPI routes.
+ */
 import axios from "axios";
 
+// ✅ Only change: use env variable in production, fallback to "/api" for local dev
 const http = axios.create({
-  baseURL: "/api",
+  baseURL: `${import.meta.env.VITE_API_URL ?? ""}/api`,
   timeout: 15_000,
   headers: { "Content-Type": "application/json" },
 });
